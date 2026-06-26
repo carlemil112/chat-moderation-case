@@ -1,501 +1,501 @@
 msg_id,user_id,content,timestamp,label,hate_speech,gambling,severity
-1,5,Nogen der kan anbefale et godt live roulette bord? Prøver at finde et med lav minimum indsats,2026-04-13 12:00:00,normal,False,False,none
-2,14,"tredje gang idag jeg indsætter. ved godt det er dumt men jackpotten er tæt på, kan mærke det",2026-04-13 12:02:00,gambling,False,True,high
-3,77,"Jackpotten på Mega Fortune sidder stadig, nogen tager den snart",2026-04-13 12:04:00,normal,False,False,none
-4,56,"Tip til alle: Sæt altid jeres daglige grænse inden i starter, det redder mange penge",2026-04-13 12:06:00,normal,False,False,none
-5,45,"Blackjack er klart det bedste her synes jeg, odds er okay",2026-04-13 12:08:00,normal,False,False,none
-6,41,"Appens lidt buggy på min samsung, crasher indimellem",2026-04-13 12:10:00,normal,False,False,none
-7,56,"er begyndt at kende alle dealerne på navn, tror jeg bruger for meget tid her lol",2026-04-13 12:12:00,gambling,False,True,low
-8,78,er det her rigged eller hvad for helvede,2026-04-13 12:14:00,hate_speech,True,False,low
-9,66,"Tak for tippet med Book of Dead, er oppe med 300 nu!",2026-04-13 12:16:00,normal,False,False,none
-10,15,"har skiftet til en slot med lavere indsats fordi pengene er ved at være lidt knappe denne måned, men hygger mig stadig",2026-04-13 12:18:00,gambling,False,True,low
-11,50,Hvornår plejer de at opdatere med nye spil?,2026-04-13 12:20:00,both,True,True,medium
-12,74,Det her er mit yndlingsspil ingen tvivl om det 🎰,2026-04-13 12:22:00,both,True,True,medium
-13,25,3 scatter i træk og så ingenting... classic,2026-04-13 12:24:00,normal,False,False,none
-14,33,"okay det her ruller jeg aldrig mere på, komplet lort",2026-04-13 12:26:00,hate_speech,True,False,low
-15,6,Nogen der ved hvornår bettingbonussen udløber? Spørger for en ven der er lidt desperat,2026-04-13 12:28:00,edge_case,,,ambiguous
-16,56,"prøv Gonzo's Quest hvis i ikke har, ret sjov mekanik",2026-04-13 12:30:00,normal,False,False,none
-17,1,"HVAD FANDEN ER DET HER, 3. gang i træk jeg taber alt, jeg sætter lønnen ind igen",2026-04-13 12:32:00,gambling,False,True,high
-18,67,Haha min kæreste tror jeg ser netflix men jeg sidder og spiller 😅,2026-04-13 12:34:00,normal,False,False,none
-19,69,"fandeme træt af de her bonusbetingelser, det er umuligt",2026-04-13 12:36:00,hate_speech,True,False,low
-20,26,"alle hader dig i chatten her, ingen gider dig",2026-04-13 12:38:00,hate_speech,True,False,medium
-21,47,"Tjek Pragmatic slots ud hvis i ikke har, de laver virkelig gode spil",2026-04-13 12:40:00,both,True,True,medium
-22,56,"sidder oppe og venter på at min indbetaling går igennem, det er lidt sent men nåja",2026-04-13 12:42:00,gambling,False,True,low
-23,9,sig et ord til mere og jeg doxxer dig så hurtigt at det går op for dig hvem du rodet med,2026-04-13 12:44:00,hate_speech,True,False,high
-24,43,"min arbejdsgiver har ringet 4 gange idag, er ikke mødt op, kan ikke forlade skærmen midt i en session",2026-04-13 12:46:00,gambling,False,True,high
-25,80,Er der nogen live blackjack bord der er åbent nu?,2026-04-13 12:48:00,normal,False,False,none
-26,41,20x!!!!! nogen der lige kan forklare mig hvad der sker rn,2026-04-13 12:50:00,edge_case,,,ambiguous
-27,16,"du er så elendig at det næsten er sjovt, næsten",2026-04-13 12:52:00,hate_speech,True,False,medium
-28,39,"Hold da op hvor er jeg sur, 5 runder uden gevinst er simpelthen for meget",2026-04-13 12:54:00,hate_speech,True,False,low
-29,65,"det er derfor folk hader dig, totalt håbløs",2026-04-13 12:56:00,hate_speech,True,False,medium
-30,40,"nå men pis, der gik de penge",2026-04-13 12:58:00,hate_speech,True,False,low
-31,53,Er der nogen der ved hvornår de nye spil kommer? Har set de slår nogle nye ting op på facebook,2026-04-13 13:00:00,normal,False,False,none
-32,42,"Pragmatic Play laver virkelig gode slots synes jeg, har I en favorit fra dem?",2026-04-13 13:02:00,normal,False,False,none
-33,52,"ej altså, kan i ikke gøre noget ved de her elendig odds",2026-04-13 13:04:00,hate_speech,True,False,low
-34,38,"Håber I alle får en god session i aften, held og lykke derude 🍀",2026-04-13 13:06:00,normal,False,False,none
-35,71,"stop med at skrive din hjerne døde idiot, ingen her kan li dig",2026-04-13 13:08:00,hate_speech,True,False,high
-36,17,"Bare rolig, min streak vender snart haha... forhåbentlig",2026-04-13 13:10:00,normal,False,False,none
-37,25,Haha ja den der slot er lidt hård at knække 😅,2026-04-13 13:12:00,both,True,True,medium
-38,54,Haha ja det er altid sådan når man endelig vinder så stopper man for sent 😅,2026-04-13 13:14:00,normal,False,False,none
-39,49,"Seriøst, det her spil er sku da rigged eller hvad",2026-04-13 13:16:00,hate_speech,True,False,low
-40,23,Book of Dead er altid et godt bud hvis man er ny 😊,2026-04-13 13:18:00,normal,False,False,none
-41,79,"kan nogen låne mig 500 kr jeg betaler tilbage i morgen, jeg er sikker på at jeg vinder nu",2026-04-13 13:20:00,gambling,False,True,high
-42,73,kan nogen forklare mig hvordan man vinder her eller???,2026-04-13 13:22:00,hate_speech,True,False,low
-43,39,Gratis spins på Starburst lige nu hvis i ikke har set det endnu,2026-04-13 13:24:00,normal,False,False,none
-44,52,Lige ramt en x847 på Wanted Dead or a Wild 🤑🤑🤑,2026-04-13 13:26:00,normal,False,False,none
-45,71,lånte penge af min bror til husleje men de er væk nu. alt er væk. hvad fanden gør jeg. nogen der har oplevet det her,2026-04-13 13:28:00,gambling,False,True,high
-46,1,"mega win!! 🎉🎉 kan ikke tro det, har aldrig vundet så meget før",2026-04-13 13:30:00,normal,False,False,none
-47,39,Er der nogen fra Jylland her eller er det mest københavnere? 😄,2026-04-13 13:32:00,normal,False,False,none
-48,37,wtf er det her... 6 gange i træk uden gevinst på den her slot. det er simpelthen for meget,2026-04-13 13:34:00,gambling,False,True,low
-49,27,"Hej alle sammen! Første gang jeg er her, hvad er bedste slot at starte med?",2026-04-13 13:36:00,normal,False,False,none
-50,56,Ny her. Er det normalt at det tager 2-3 dage at verificere sin konto?,2026-04-13 13:38:00,normal,False,False,none
-51,75,Hvem spiller Book of Dead her? Er det worth det?,2026-04-13 13:40:00,normal,False,False,none
-52,78,"Har spillet her i 2 år, altid udbetalt hurtigt 👍",2026-04-13 13:42:00,normal,False,False,none
-53,42,"Spillede Gates of Olympus i går, den gav virkelig ikke noget 😤",2026-04-13 13:44:00,both,True,True,medium
-54,60,er der nogen der ved hvornår de indsætter bonussen? har brug for den nu,2026-04-13 13:46:00,gambling,False,True,low
-55,57,"Hej alle sammen! Første gang jeg er her, hvad er det bedste spil at starte med?",2026-04-13 13:48:00,normal,False,False,none
-56,57,Ja den er genial! Grid slots er bare noget andet 🎮,2026-04-13 13:50:00,normal,False,False,none
-57,28,"din mor burde have aborteret dig, fucking taber uden liv",2026-04-13 13:52:00,hate_speech,True,False,high
-58,66,"Blackjack er klart det bedste spil her efter min mening, bedre odds end automaterne",2026-04-13 13:54:00,normal,False,False,none
-59,61,free spins uden wagerkrav er guld værd,2026-04-13 13:56:00,normal,False,False,none
-60,22,kl er 4:47 og jeg har tabt alt hvad jeg havde. sidder bare her. ved ikke hvad jeg skal gøre,2026-04-13 13:58:00,gambling,False,True,medium
-61,11,"tjek din mail, de sender tit tilbud mandag morgen",2026-04-13 14:00:00,normal,False,False,none
-62,37,"har siddet her siden klokken 8 i morges, er klokken 3 om natten nu, jeg kan ikke gå fra det her",2026-04-13 14:02:00,gambling,False,True,high
-63,66,"Har spillet her i 2 år og synes stadig kundeservice er i top, svarer hurtigt",2026-04-13 14:04:00,normal,False,False,none
-64,80,Hvad er forskellen på RTP 96% og 97%? Gør det egentlig en stor forskel i praksis?,2026-04-13 14:06:00,normal,False,False,none
-65,43,"Starburst er stadig min favorit, klassiker for evigt",2026-04-13 14:08:00,normal,False,False,none
-66,12,Poker turnering om 30 min hvis nogen er interesserede!,2026-04-13 14:10:00,normal,False,False,none
-67,31,"spillede lidt for meget i weekenden, men det går nok",2026-04-13 14:12:00,gambling,False,True,low
-68,40,"Ja! Dealeren er super hyggelig, og spillet kører flot",2026-04-13 14:14:00,normal,False,False,none
-69,29,BONUS BONUS BONUS giv mig en fucking bonus jeg har tabt ALT,2026-04-13 14:16:00,gambling,False,True,high
-70,26,"okay jeg er faktisk ret spændt nu, sidder med hjertet i halsen lol",2026-04-13 14:18:00,edge_case,,,ambiguous
-71,19,"Spiller altid kun for det jeg har råd til at tabe, anbefaler alle det samme",2026-04-13 14:20:00,normal,False,False,none
-72,4,"okay fair nok, det var min fejl, burde have sat mere på den linje",2026-04-13 14:22:00,edge_case,,,ambiguous
-73,6,"din fucking idiot, prøv at snyd mig igen og jeg finder dig",2026-04-13 14:24:00,hate_speech,True,False,high
-74,32,"tabt 15k denne måned men januar bliver min måned, kan mærke det",2026-04-13 14:26:00,gambling,False,True,medium
-75,61,"Prøv Gates of Olympus hvis i ikke har det endnu, ret fed",2026-04-13 14:28:00,both,True,True,medium
-76,79,Seriøst den her roulette er ved at gøre mig skør lol,2026-04-13 14:30:00,both,True,True,medium
-77,10,Nogen der har prøvet det nye live casino bord de åbnede i weekenden?,2026-04-13 14:32:00,normal,False,False,none
-78,59,"okay jeg er nødt til at vinde de 3000 tilbage jeg har tabt i aften, kommer ikke i seng før jeg har dem",2026-04-13 14:34:00,gambling,False,True,medium
-79,54,hvorfor virker min bonus ikke??? er ved at eksplodere,2026-04-13 14:36:00,hate_speech,True,False,low
-80,74,"Lige ramt 50x på Starburst, ikke dårligt for en tirsdag aften lol",2026-04-13 14:38:00,normal,False,False,none
-81,25,Er jackpotten på Mega Moolah vokset meget i dag?,2026-04-13 14:40:00,normal,False,False,none
-82,50,Tip: prøv at spille med lavere indsats når du vil aktivere bonus rounds,2026-04-13 14:42:00,normal,False,False,none
-83,64,Er der live chat support her eller kun mail?,2026-04-13 14:44:00,both,True,True,medium
-84,52,fucking spild af ilt du er,2026-04-13 14:46:00,hate_speech,True,False,medium
-85,32,har siddet her siden klokken 7 i morges og er nu minus 22k... nogen der kender et trick til at vende det? kan ikke logge af før jeg har fået noget tilbage,2026-04-13 14:48:00,gambling,False,True,high
+1,5,"Lige ramt scatter 3 gange i træk på forskellige spil, er det et tegn? 😂",2026-04-13 12:00:00,normal,False,False,none
+2,14,okay jeg sætter bare de her 2000 ind. hvis jeg taber dem er det FÆRDIG. det lover jeg mig selv,2026-04-13 12:02:00,gambling,False,True,high
+3,77,Hej! Nogen der kan anbefale et godt slot under 1kr pr spin?,2026-04-13 12:04:00,normal,False,False,none
+4,56,"Fik en x847 win på Mental forleden, stadig ikke over det 😂",2026-04-13 12:06:00,normal,False,False,none
+5,45,Er der nogen der ved om der kommer nye spil i weekenden?,2026-04-13 12:08:00,normal,False,False,none
+6,41,Hej er der nogen danske spillere her eller er det mest udlændinge?,2026-04-13 12:10:00,normal,False,False,none
+7,56,"tredje indskud denne uge, det er lidt meget men det går nok",2026-04-13 12:12:00,gambling,False,True,low
+8,78,"kan i ikke bare fikse de her lags, det koster mig penge ffs",2026-04-13 12:14:00,hate_speech,True,False,low
+9,66,Bonuskøb værd eller ej? Tænker på at prøve på Dog House,2026-04-13 12:16:00,normal,False,False,none
+10,15,"okay sidst for i aften, det siger jeg altid men denne gang mener jeg det... måske",2026-04-13 12:18:00,gambling,False,True,low
+11,50,"Blackjack bordet er mega lækkert i dag, dealer er varm på hånden haha",2026-04-13 12:20:00,both,True,True,medium
+12,74,"Har spillet her i 2 år nu og det er stadig mit yndlings casino, aldrig haft problemer",2026-04-13 12:22:00,both,True,True,medium
+13,25,"prøver pragmatic play slots for første gang, tips?",2026-04-13 12:24:00,normal,False,False,none
+14,33,øv øv øv... taber hver gang jeg spiller høj indsats,2026-04-13 12:26:00,hate_speech,True,False,low
+15,6,er der nogen der ved hvornår der kommer nye slots? spørger for en ven,2026-04-13 12:28:00,edge_case,,,ambiguous
+16,56,Nogen der spiller live blackjack? Dealer er vist sur på mig i dag lol,2026-04-13 12:30:00,normal,False,False,none
+17,1,SKAL VINDE TILBAGE NU. sætter alt ind på rød. ALT,2026-04-13 12:32:00,gambling,False,True,high
+18,67,Kan nogen forklare mig hvordan megaways egentlig virker? Er lidt forvirret,2026-04-13 12:34:00,normal,False,False,none
+19,69,"sikke noget møg, dealer får blackjack IGEN",2026-04-13 12:36:00,hate_speech,True,False,low
+20,26,dit spil er ligeså ulækkert som du sikkert ser ud i virkeligheden,2026-04-13 12:38:00,hate_speech,True,False,medium
+21,47,"Fik endelig min bonus udbetalt efter at have mødt wageringen, took forever",2026-04-13 12:40:00,both,True,True,medium
+22,56,okay nu stopper jeg bare efter dette spin... det har jeg sagt 40 gange nu,2026-04-13 12:42:00,gambling,False,True,low
+23,9,"kæft hvor er du en ulækker lille orm, forpest ikke chatten med din tilstedeværelse",2026-04-13 12:44:00,hate_speech,True,False,high
+24,43,min mor spurgte hvorfor jeg virker så stresset. sagde det var arbejde. det er ikke arbejde,2026-04-13 12:46:00,gambling,False,True,high
+25,80,"Kundeservice her er faktisk ret god, fik løst mit problem på 10 min",2026-04-13 12:48:00,normal,False,False,none
+26,41,"det her er jo ikke gambling, det er bare underholdning ikk 😅",2026-04-13 12:50:00,edge_case,,,ambiguous
+27,16,kan du ikke bare forsvinde? du irriterer alle andre ved bordet med dit fjollede snak,2026-04-13 12:52:00,hate_speech,True,False,medium
+28,39,"Nå okay, så taber man bare 200 kr på 5 minutter. Fantastisk 🙄",2026-04-13 12:54:00,hate_speech,True,False,low
+29,65,din mor burde have slugt dig din lille lort,2026-04-13 12:56:00,hate_speech,True,False,medium
+30,40,jeg ved godt det er tilfældigt men det virker sgu ikke sådan,2026-04-13 12:58:00,hate_speech,True,False,low
+31,53,"Blackjack dealer er så heldig i dag, har tabt 4 gange i træk 😩",2026-04-13 13:00:00,normal,False,False,none
+32,42,"Har siddet her i 2 timer og breakeven, det er bedre end normalt tbh",2026-04-13 13:02:00,normal,False,False,none
+33,52,"øv mand, lige netop ikke nok til bonusrunden 😒",2026-04-13 13:04:00,hate_speech,True,False,low
+34,38,Hvad er omsætningskravene på den nye bonus? Syntes det stod 35x?,2026-04-13 13:06:00,normal,False,False,none
+35,71,fucking perkersvin gå hjem til dit eget land,2026-04-13 13:08:00,hate_speech,True,False,high
+36,17,"Spiller altid med lille indsats, varer længere og er mere sjovt synes jeg",2026-04-13 13:10:00,normal,False,False,none
+37,25,"Prøv Gates of Olympus på maks bet, det er SÅ fedt når det rammer",2026-04-13 13:12:00,both,True,True,medium
+38,54,"Tak for welkomstbonus den var sgu fed, 200% match er ikke dårligt",2026-04-13 13:14:00,normal,False,False,none
+39,49,"Hold da op hvor er det irriterende, alle andre vinder og jeg sidder her som en idiot",2026-04-13 13:16:00,hate_speech,True,False,low
+40,23,Lige hjemme fra arbejde og klar til at smide nogle spins 🎰,2026-04-13 13:18:00,normal,False,False,none
+41,79,"har ikke sovet i 2 dage, sidder bare og spiller hele tiden, kan ikke stoppe selvom jeg ved jeg burde",2026-04-13 13:20:00,gambling,False,True,high
+42,73,"hold da op med det lort, free spins giver altid 0",2026-04-13 13:22:00,hate_speech,True,False,low
+43,39,"GG til dem der vandt på turneringen i går, jeg røg ud i første runde lol",2026-04-13 13:24:00,normal,False,False,none
+44,52,"hej alle sammen, første gang jeg er her",2026-04-13 13:26:00,normal,False,False,none
+45,71,"til jer der siger jeg skal stoppe: I FORSTÅR DET IKKE. Jeg er ikke afhængig, jeg har bare haft en dårlig uge. Næste spin er anderledes det kan jeg mærke i maven",2026-04-13 13:28:00,gambling,False,True,high
+46,1,"Hej, er der nogen erfaren spillere der kan hjælpe mig med at forstå wagering krav?",2026-04-13 13:30:00,normal,False,False,none
+47,39,"Det her casino har den bedste bonus struktur jeg nogensinde har set, virkelig",2026-04-13 13:32:00,normal,False,False,none
+48,37,"tredje gang jeg topper op i dag, burde nok snart stoppe men det er svært når man er så tæt på",2026-04-13 13:34:00,gambling,False,True,low
+49,27,"fed session i dag, op med 800 kr på blackjack 🎉",2026-04-13 13:36:00,normal,False,False,none
+50,56,Tip: prøv at spille med lavere indsats i starten af sessionen og skru op hvis det går godt,2026-04-13 13:38:00,normal,False,False,none
+51,75,"woooow x847 multiplikator, det sker altså ikke tit 😂",2026-04-13 13:40:00,normal,False,False,none
+52,78,er support hurtig her hvis man har spørgsmål?,2026-04-13 13:42:00,normal,False,False,none
+53,42,Nogen der spiller live dealer? Synes det er meget mere spændende end slots,2026-04-13 13:44:00,both,True,True,medium
+54,60,"har brugt hele min løn på forhånd næsten... men whatever, man lever kun en gang",2026-04-13 13:46:00,gambling,False,True,low
+55,57,"Hej alle sammen! Første gang jeg er herinde, håber I er søde 😊",2026-04-13 13:48:00,normal,False,False,none
+56,57,"live blackjack med 50 kr bordgrænse, perfekt til mig der ikke vil satse for meget",2026-04-13 13:50:00,normal,False,False,none
+57,28,"du er den mest hjernedøde bums jeg nogensinde har set spille, gå tilbage til ældrehjemmet din senile idiot",2026-04-13 13:52:00,hate_speech,True,False,high
+58,66,Nogen der har prøvet Gonzo's Quest Megaways? Er den god?,2026-04-13 13:54:00,normal,False,False,none
+59,61,"indsatte 200 og kørte dem op til 1.100 på crash game, trækker dem nu ud",2026-04-13 13:56:00,normal,False,False,none
+60,22,sidder her og ryster lidt. ved ikke rigtig hvad jeg laver mere. har tabt alt hvad jeg havde og sætter stadig ind. nogen der kender til en god strategi,2026-04-13 13:58:00,gambling,False,True,medium
+61,11,"tip til roulette: spil altid på europæisk, huset har lavere fordel end amerikansk",2026-04-13 14:00:00,normal,False,False,none
+62,37,lånte penge af min bror for at betale husleje men brugte dem her i stedet... han tror stadig jeg har betalt,2026-04-13 14:02:00,gambling,False,True,high
+63,66,Kan man stadig få velkomstbonussen hvis man glemte at bruge koden??,2026-04-13 14:04:00,normal,False,False,none
+64,80,Velkommen til alle de nye! Husk nu at sætte et depositum limit inden i starter,2026-04-13 14:06:00,normal,False,False,none
+65,43,"Haha tabte lige 200 kr på 5 minutter, klassisk mandag morgen",2026-04-13 14:08:00,normal,False,False,none
+66,12,ej hvor er det frustrerende at komme så tæt på jackpotten,2026-04-13 14:10:00,normal,False,False,none
+67,31,hvorfor fanden giver de her slots aldrig noget? har spillet i 4 timer nu,2026-04-13 14:12:00,gambling,False,True,low
+68,40,hej fra aarhus! regner udenfor så perfekt casinovejr hehe,2026-04-13 14:14:00,normal,False,False,none
+69,29,"min konto er minus og jeg har brugt kreditkortet, men hvis jeg bare rammer et stort win nu så er det hele okay",2026-04-13 14:16:00,gambling,False,True,high
+70,26,"OMG OMG OMG lige landet 3 scatters, nu MÅ der komme noget!!!",2026-04-13 14:18:00,edge_case,,,ambiguous
+71,19,"spiller altid med et fast budget, det er den rigtige måde at gøre det på",2026-04-13 14:20:00,normal,False,False,none
+72,4,lol casinos er jo bare en skat man betaler frivilligt,2026-04-13 14:22:00,edge_case,,,ambiguous
+73,6,"hold kæft din fucking idiot, du har ødelagt mit spil med din lort strategigivning",2026-04-13 14:24:00,hate_speech,True,False,high
+74,32,"det giver ingen mening, statistisk set SKAL jeg snart vinde, har tabt 12 gange i træk",2026-04-13 14:26:00,gambling,False,True,medium
+75,61,"Spiller kun med bonus penge i dag, tør ikke røre min rigtige konto efter i går lol",2026-04-13 14:28:00,both,True,True,medium
+76,79,Er der nogen der ved om der kommer flere live dealer borde? Synes udvalget er lidt småt,2026-04-13 14:30:00,both,True,True,medium
+77,10,"spillede starburst i en time, op og ned hele tiden, endte med at miste 150 øre 😅",2026-04-13 14:32:00,normal,False,False,none
+78,59,"jeg har tabt 3000 kr på den her time, men jeg kan mærke at mit held er ved at vende, skal bare spille lidt mere",2026-04-13 14:34:00,gambling,False,True,medium
+79,54,"okay det er sku nok for i aften, jeg er ved at blive tosset",2026-04-13 14:36:00,hate_speech,True,False,low
+80,74,"Fik lige 50 free spins på Book of Dead, fingers crossed!!",2026-04-13 14:38:00,normal,False,False,none
+81,25,"Starburst er stadig min favorit, simpel men fed",2026-04-13 14:40:00,normal,False,False,none
+82,50,"Mega fed jackpot på Book of Dead lige nu, nogen med?",2026-04-13 14:42:00,normal,False,False,none
+83,64,"Roulette er bare random, folk der tror de har et system tager fejl lol",2026-04-13 14:44:00,both,True,True,medium
+84,52,"LOL se engang på den her noob haha, komplet håbløs case",2026-04-13 14:46:00,hate_speech,True,False,medium
+85,32,har ikke sovet i 2 dage. sidder stadig her. tabte løn for hele måneden men systemet virker nu tror jeg. rød sort rød sort rød. jeg har fundet mønsteret,2026-04-13 14:48:00,gambling,False,True,high
 86,19,"Hej alle sammen! Første gang jeg prøver dette casino, ser ret fedt ud 😄",2026-04-13 14:50:00,both,True,True,medium
-87,1,alle siger stop men de forstår ikke at man ikke bare kan stoppe når man er så langt nede,2026-04-13 14:52:00,gambling,False,True,medium
-88,14,"Ugh tabte min daglige grænse på 20 min, det gik stærkt i dag",2026-04-13 14:54:00,normal,False,False,none
-89,55,Nogen der har prøvet Starburst i dag? Har den varme?,2026-04-13 14:56:00,both,True,True,medium
-90,29,Nogen der har prøvet Starburst i dag? Sidder fast på 0 wins lol,2026-04-13 14:58:00,normal,False,False,none
-91,23,JACKPOT!! 😱😱 Troede slet ikke det var rigtigt haha,2026-04-13 15:00:00,normal,False,False,none
-92,67,"Prøv Sweet Bonanza i stedet, lidt mere venlig mod bankkontoen",2026-04-13 15:02:00,normal,False,False,none
-93,60,"hahaha endnu en luder der ikke fatter hvordan man spiller blackjack, forsvind tilbage til dit hul",2026-04-13 15:04:00,hate_speech,True,False,medium
-94,7,hold kæft hvor er jeg sur lige nu,2026-04-13 15:06:00,hate_speech,True,False,low
-95,72,Gates of Olympus sluger ALT jeg smider efter den 😅,2026-04-13 15:08:00,normal,False,False,none
-96,32,Hvilken udbyder laver de fedeste slots efter jeres mening?,2026-04-13 15:10:00,normal,False,False,none
-97,16,YES! Lige ramt free spins på Book of Dead 🎉,2026-04-13 15:12:00,normal,False,False,none
-98,59,Er der turneringer på i dag?,2026-04-13 15:14:00,both,True,True,medium
-99,18,ok sidste gang nu. seriøst. det er SIDSE gang. indsætter bare 500 mere og så er det slut uanset hvad der sker,2026-04-13 15:16:00,gambling,False,True,high
-100,60,Har siddet her i 2 timer og kun vundet 20 kr lol... det er ikke min dag,2026-04-13 15:18:00,normal,False,False,none
-101,68,"Argh kom nu, det var SÅ tæt på en jackpot!!!",2026-04-13 15:20:00,hate_speech,True,False,low
-102,72,ok nu gider jeg ikke mere. tabt løn for hele ugen. men jeg spiller bare til jeg er i plus igen og så stopper jeg for altid det lover jeg,2026-04-13 15:22:00,gambling,False,True,medium
-103,77,jeg håber du taber ALT din løn din fucking fjols,2026-04-13 15:24:00,hate_speech,True,False,medium
-104,41,kan nogen forklare mig hvorfor jeg altid taber de sidste 500 efter en god session?? er der et mønster,2026-04-13 15:26:00,gambling,False,True,medium
-105,57,"Fik 50 kr i bonus i dag, small wins men hey 😄",2026-04-13 15:28:00,normal,False,False,none
-106,79,"fatter ikke man kan have så dårlig en streak, kommer tilbage i morgen og henter det",2026-04-13 15:30:00,gambling,False,True,low
-107,65,Dog house megaways er simpelthen for sjov når man rammer free spins med max multiplikator 🐶🔥,2026-04-13 15:32:00,normal,False,False,none
-108,55,"BONUS BONUS BONUS jeg trenger mere bonus ellers er jeg færdig her for altid, har allerede sat 8000 ind i dag og ingenting",2026-04-13 15:34:00,gambling,False,True,high
-109,71,Nogen der har prøvet det nye Sweet Bonanza spil? Hørte det skulle være ret vildt,2026-04-13 15:36:00,normal,False,False,none
-110,58,okay jeg lover mig selv 200kr mere så er jeg færdig for i aften,2026-04-13 15:38:00,gambling,False,True,low
-111,21,Mega win på Dead or Alive 2!! Skærmbilledet er ikke til at tro 😱,2026-04-13 15:40:00,normal,False,False,none
-112,61,jeg har tabt 14000 kr de sidste 3 dage og kan ikke stoppe... ved godt det er dumt men skal bare vinde det hjem igen inden min kone finder ud af det,2026-04-13 15:42:00,gambling,False,True,high
-113,58,"Slots med høj volatilitet er bedst hvis man vil have de store gevinster, men man taber også mere",2026-04-13 15:44:00,normal,False,False,none
-114,34,"hej alle sammen, første gang jeg er herinde",2026-04-13 15:46:00,normal,False,False,none
-115,32,"jeg ved godt det lyder dumt men jeg ER faktisk ved at vende det, har haft 4 dårlige dage men dag 5 bliver anderledes",2026-04-13 15:48:00,gambling,False,True,medium
-116,36,"Åh nej ikke en free spin bonus igen, det er jo næsten som at vinde rigtige penge 😅",2026-04-13 15:50:00,edge_case,,,ambiguous
-117,67,Hvad er min bedste strategi på blackjack? Splitter altid 8ere men er det korrekt?,2026-04-13 15:52:00,both,True,True,medium
-118,63,"Fed hjemmeside iøvrigt, virker meget hurtigere end det sted jeg var på før",2026-04-13 15:54:00,normal,False,False,none
-119,31,"Tillykke til dem der vandt i aftes, så nogle vilde gevinster på leaderboardet",2026-04-13 15:56:00,normal,False,False,none
-120,36,gå hjem og græd til din mor din taber,2026-04-13 15:58:00,hate_speech,True,False,medium
-121,57,Mega win!! 3x wild på rad 🎰🎰🎰,2026-04-13 16:00:00,normal,False,False,none
-122,10,hold kæft mand du er da den største idiot jeg nogensinde har set i et casino chat,2026-04-13 16:02:00,hate_speech,True,False,high
-123,37,Er det normalt at man sidder her kl 3 om natten og stadig ikke kan stoppe lol,2026-04-13 16:04:00,edge_case,,,ambiguous
-124,31,"Ej altså, det gider jeg sgu ikke, 4. gang dealer stikker mig en 6'er",2026-04-13 16:06:00,hate_speech,True,False,low
-125,35,"kan du ikke bare holde din kæft og lade være med at skrive i chatten, ingen gider høre på dig",2026-04-13 16:08:00,hate_speech,True,False,medium
-126,43,Lige smadret free spins på Book of Dead igen 😍 200x min indsats!!,2026-04-13 16:10:00,both,True,True,medium
-127,41,hold kæft med din taber snak ellers finder jeg dig på alle platforme og sørger for du bliver smadret,2026-04-13 16:12:00,hate_speech,True,False,high
-128,70,Hvem spiller Reactoonz her? En af mine favoritter nogensinde,2026-04-13 16:14:00,normal,False,False,none
-129,11,"Har siddet og spillet i 2 timer og er faktisk i plus, det sker ikke tit 😂",2026-04-13 16:16:00,normal,False,False,none
-130,18,okay jeg er ked af det over de her tab men det er ikke noget problem eller noget,2026-04-13 16:18:00,gambling,False,True,low
-131,20,"min chef ringede mens jeg spillede, det var lidt akavet haha",2026-04-13 16:20:00,gambling,False,True,low
-132,30,"Lige landet 500kr gevinst på Book of Dead, YES!!",2026-04-13 16:22:00,normal,False,False,none
-133,50,Live casino er bare på et andet niveau end normale slots synes jeg,2026-04-13 16:24:00,normal,False,False,none
-134,20,"Brug for at vinde 800 kr mere så jeg er i nul for måneden, fingers crossed gutter",2026-04-13 16:26:00,edge_case,,,ambiguous
-135,28,"dit lille svin, håber du taber alt hvad du har og går konkurs",2026-04-13 16:28:00,hate_speech,True,False,medium
-136,9,Nogen der har prøvet den nye slot med pyramiderne? Er den god?,2026-04-13 16:30:00,normal,False,False,none
-137,54,er du fuld eller bare naturligt dum??,2026-04-13 16:32:00,hate_speech,True,False,medium
-138,53,hvem har tid til at sove når man er ved at vinde det hele tilbage haha,2026-04-13 16:34:00,gambling,False,True,low
-139,43,er stoppet og startet igen 4 gange i dag. den næste session er den gode,2026-04-13 16:36:00,gambling,False,True,medium
-140,70,"okay nu har jeg vundet halvdelen af det tilbage, det tæller som en win ikk",2026-04-13 16:38:00,edge_case,,,ambiguous
-141,60,"Udbetalingen tog kun 2 dage denne gang, det er faktisk ret hurtigt",2026-04-13 16:40:00,normal,False,False,none
-142,54,Godt spil til alle i aften! 🤞🍀,2026-04-13 16:42:00,both,True,True,medium
-143,8,"De har live dealer med dansk speak nu, ret nice",2026-04-13 16:44:00,normal,False,False,none
-144,27,Nogen der ved om de har free spins i dag? Kan ikke finde dem i min bonus,2026-04-13 16:46:00,normal,False,False,none
-145,54,Nogen der ved om der kommer free spins i dag? Plejer at få noget om mandagen,2026-04-13 16:48:00,normal,False,False,none
-146,50,"haha min kæreste er begyndt at kalde mig casino-nørd, kan ikke give hende uret 😅",2026-04-13 16:50:00,normal,False,False,none
-147,75,Er der nogen der ved om man kan hæve i weekenden eller skal man vente til mandag?,2026-04-13 16:52:00,both,True,True,medium
-148,3,hold din møl lukket ellers sørger jeg for at ødelægge dit liv online din lille rotte,2026-04-13 16:54:00,hate_speech,True,False,high
-149,74,"du er så fucking dum at det næsten gør ondt, prøv at lær at spille din taber",2026-04-13 16:56:00,hate_speech,True,False,high
-150,49,"det ER jo bare underholdning vel, så det er okay det koster lidt... right?",2026-04-13 16:58:00,edge_case,,,ambiguous
-151,62,nej nej NEJ ikke igen!!!,2026-04-13 17:00:00,hate_speech,True,False,low
-152,1,Nogen der har prøvet Lightning Roulette? Tænker på at prøve det i aften,2026-04-13 17:02:00,normal,False,False,none
-153,46,Er der nogen der ved hvornår de nye spillemaskiner kommer?,2026-04-13 17:04:00,both,True,True,medium
-154,39,en dag finder jeg dig og så skal du nok få hvad du har fortjent din svin,2026-04-13 17:06:00,hate_speech,True,False,high
-155,50,indsatte lige min løn men det er okay for jeg vinder den tilbage inden måneden er omme,2026-04-13 17:08:00,gambling,False,True,medium
-156,54,hvornår virker supporten egentlig? har siddet her i 20 min uden svar,2026-04-13 17:10:00,edge_case,,,ambiguous
-157,69,"har prøvet at lade være i en uge, men det er sgu svært når man keder sig",2026-04-13 17:12:00,gambling,False,True,low
-158,70,"Vandt 1200 på poker turneringen i aftes, stadig i godt humør",2026-04-13 17:14:00,normal,False,False,none
-159,78,Nogen der prøvet Sweet Bonanza? Synes den giver rigtig godt for mig,2026-04-13 17:16:00,both,True,True,medium
-160,29,Er der nogen der bruger autoplay eller spiller i manuelt?,2026-04-13 17:18:00,normal,False,False,none
-161,63,"gg alle, smutter nu. God fornøjelse til jer der er tilbage 👋",2026-04-13 17:20:00,normal,False,False,none
-162,29,din mor burde have slugt dig,2026-04-13 17:22:00,hate_speech,True,False,medium
-163,35,SVINDLERE ALLE SAMMEN håber i brænder ned med jeres lorteside,2026-04-13 17:24:00,hate_speech,True,False,high
-164,56,kryb tilbage under din sten din afskyelige lille klaphat,2026-04-13 17:26:00,hate_speech,True,False,high
-165,63,"har tabt for 8000 denne uge men det vender snart, statistisk set SKAL det vende",2026-04-13 17:28:00,gambling,False,True,medium
-166,4,"har siddet her siden i går aftes, gik ikke så godt men man prøver igen",2026-04-13 17:30:00,gambling,False,True,low
-167,50,"Prøv Reactoonz hvis I ikke har, den er virkelig underholdende og grafikken er fed",2026-04-13 17:32:00,normal,False,False,none
-168,44,"jeg giver op, det her er spild af tid",2026-04-13 17:34:00,hate_speech,True,False,low
-169,52,tog et kviklån på 15000 til spillene iaften. renten er høj men det er ok for jeg vinder det tilbage,2026-04-13 17:36:00,gambling,False,True,high
-170,22,"systemet er rigget imod mig idag kan mærke det. skifter til et andet spil hvert 2 min men ingenting virker. har prøvet roulette, slots, blackjack... minus minus minus hele tiden",2026-04-13 17:38:00,gambling,False,True,high
-171,60,"Tror der er et refer-a-friend program, se under 'Kampagner' i menuen",2026-04-13 17:40:00,normal,False,False,none
-172,17,øv øv øv... tabte igen,2026-04-13 17:42:00,hate_speech,True,False,low
-173,80,"Synes customer support her er mega hurtig, fik svar på under 5 min",2026-04-13 17:44:00,both,True,True,medium
-174,69,"Har prøvet 10 bonus køb idag, intet. Det er sgu hårdt",2026-04-13 17:46:00,normal,False,False,none
-175,4,"Tip: sæt altid en grænse for dig selv inden du starter, det hjælper mig meget",2026-04-13 17:48:00,normal,False,False,none
-176,51,"Hej alle sammen! Første gang jeg prøver dette casino, ser ret fedt ud",2026-04-13 17:50:00,normal,False,False,none
-177,76,næste gang jeg ser dit navn i chatten anmelder jeg dig til alle og ødelægger dig,2026-04-13 17:52:00,hate_speech,True,False,high
-178,73,Nogen der spiller på mobil? Fungerer appen godt for jer eller lagger den?,2026-04-13 17:54:00,normal,False,False,none
-179,4,"børnenes julepenge er væk. indsatte dem for at fordoble dem til jul, tabte det hele. skal bare vinde dem tilbage inden 24. december",2026-04-13 17:56:00,gambling,False,True,high
-180,11,"det her er sgu da underholdende, bare ikke på den gode måde lmao",2026-04-13 17:58:00,edge_case,,,ambiguous
-181,55,"din klapholt, hvem lærte dig at spille???",2026-04-13 18:00:00,hate_speech,True,False,medium
-182,18,gg! jeg sidder og kæmper på starburst lol,2026-04-13 18:02:00,normal,False,False,none
-183,60,"pokkers spil, gider det snart ikke mere",2026-04-13 18:04:00,hate_speech,True,False,low
-184,24,"vil bare sige at free spins features er den bedste opfindelse nogensinde, det er bare facts",2026-04-13 18:06:00,edge_case,,,ambiguous
-185,7,"Den her dealer er simpelthen for sej, hun husker alle vores navne",2026-04-13 18:08:00,both,True,True,medium
-186,34,"okay mega træt af at bonussen har 40x wagering krav, det er for meget",2026-04-13 18:10:00,normal,False,False,none
-187,49,Bare vandt 340 kr på en 5 kr indsats!! Vildt 🙌,2026-04-13 18:12:00,normal,False,False,none
-188,42,Okay denne her maskine ER da ikke rigged vel??? spurgte bare haha,2026-04-13 18:14:00,edge_case,,,ambiguous
-189,28,Nogen der kender et godt tip til megaways slots?,2026-04-13 18:16:00,normal,False,False,none
-190,59,"Wow appens nye opdatering er meget bedre, kørte lidt langsomt før",2026-04-13 18:18:00,normal,False,False,none
-191,42,nogen der ved hvilke slots der er varmest lige nu? skal have mine penge tilbage asap,2026-04-13 18:20:00,gambling,False,True,medium
-192,44,"du er et stykke menneskeskrald og alle her hader dig, ta og forsvind",2026-04-13 18:22:00,hate_speech,True,False,high
-193,49,"min bonus er opbrugt allerede, det gik hurtigt i dag",2026-04-13 18:24:00,gambling,False,True,low
-194,36,hov hov hov - er det virkelig ved at ske??? bonus game incoming???,2026-04-13 18:26:00,edge_case,,,ambiguous
-195,54,"god aften allesammen, håber I har held og lykke i aften 🍀",2026-04-13 18:28:00,normal,False,False,none
-196,33,"du er den dummeste spiller jeg nogensinde har set, og jeg har set mange",2026-04-13 18:30:00,hate_speech,True,False,medium
-197,11,"Wtf er der sket med min netforbindelse midt i et spil, det er frustrerende",2026-04-13 18:32:00,normal,False,False,none
-198,61,"Ja live roulette er nede, stødte på det samme for 10 min siden",2026-04-13 18:34:00,normal,False,False,none
-199,3,"Har siddet og spillet pragmatic i en time, de slet ikke hot idag altså",2026-04-13 18:36:00,normal,False,False,none
-200,70,Nogen der kender forskel på RTP på de her to slots?,2026-04-13 18:38:00,both,True,True,medium
-201,7,"din mor burde have kastet dig ud mens hun kunne, komplet ubrugelig idiot du er",2026-04-13 18:40:00,hate_speech,True,False,medium
-202,45,hold din kæft og flyt dig fra bordet din nørd,2026-04-13 18:42:00,hate_speech,True,False,medium
-203,29,"lånte 10000 af min bror, han tror det er til tandlæge. tabte det på 45 minutter",2026-04-13 18:44:00,gambling,False,True,high
-204,9,Nogen der kender et casino med lavere wagering krav? Bonuserne her er lidt... interessante,2026-04-13 18:46:00,edge_case,,,ambiguous
-205,6,"Øv mand, kunne slet ikke ramme bonussen i dag",2026-04-13 18:48:00,hate_speech,True,False,low
-206,4,Goddag har I nogle gode tips til at vinde hurtigt? Spørger ikke fordi jeg er i klemme eller noget,2026-04-13 18:50:00,edge_case,,,ambiguous
-207,32,"husk at sætte jer et budget folk, det er det vigtigste",2026-04-13 18:52:00,normal,False,False,none
-208,26,"Husk nu at sætte jeres daglige grænse folk, spil ansvarligt 👍",2026-04-13 18:54:00,normal,False,False,none
-209,3,det er sgu for dårligt at kundservice aldrig svarer,2026-04-13 18:56:00,hate_speech,True,False,low
-210,80,jackpotten på Mega Fortune er oppe på 12 mio nu 👀,2026-04-13 18:58:00,normal,False,False,none
-211,20,min kæreste tror jeg er stoppet med at spille men jeg er bare skiftet til dette site i stedet. har tabt ca 15000 de seneste 2 måneder og aner ikke hvordan jeg skal forklare det,2026-04-13 19:00:00,gambling,False,True,medium
-212,31,"sidder og ryster, har tabt alt hvad jeg ejer næsten. men stopper ikke, kan ikke",2026-04-13 19:02:00,gambling,False,True,high
-213,17,"Holder pause fra slots og prøver poker i aften, wish me luck",2026-04-13 19:04:00,both,True,True,medium
-214,61,HA ØV DIG DINE SVIN I ER ALLE SAMMEN BEDRAGUERE,2026-04-13 19:06:00,hate_speech,True,False,high
-215,15,Kan man få refunderet penge hvis man fortryder en indbetaling to sekunder efter? Spørger for mig selv,2026-04-13 19:08:00,edge_case,,,ambiguous
-216,73,har tabt lejlighedens depositum. ved ikke hvad jeg skal sige til udlejer. skal bare vinde det igen,2026-04-13 19:10:00,gambling,False,True,high
-217,28,haha håber du går konkurs din lille lort,2026-04-13 19:12:00,hate_speech,True,False,medium
-218,60,"Den der gratis spins bonus var nice, fik 20 ekstra uden at skulle sætte ind",2026-04-13 19:14:00,both,True,True,medium
-219,33,Woooo 3x wild i træk!! Det sker altså ikke tit,2026-04-13 19:16:00,both,True,True,medium
-220,48,"Lige landet 500 kr på Book of Dead, dagens bedste spin helt sikkert",2026-04-13 19:18:00,normal,False,False,none
-221,22,"banke i bordet, det her giver ingen mening",2026-04-13 19:20:00,hate_speech,True,False,low
-222,78,er der nogen der også synes det her slot er anderledes i dag? føles mærkeligt,2026-04-13 19:22:00,edge_case,,,ambiguous
-223,78,Husker i at sætte jeres grænser folk! God spillekultur,2026-04-13 19:24:00,normal,False,False,none
-224,15,har siddet her siden kl 22 i går og er stadig ikke gået i seng. nogen der ved hvilke slots der giver mest ud lige nu? SKAL vinde noget tilbage inden jeg stopper,2026-04-13 19:26:00,gambling,False,True,medium
-225,21,Starburst er klassikeren man altid vender tilbage til,2026-04-13 19:28:00,normal,False,False,none
-226,40,Har lige sat 200 kr ind fordi jeg har en feeling om at min lykke vender snart,2026-04-13 19:30:00,edge_case,,,ambiguous
-227,14,"Hej alle sammen! Første gang jeg prøver dette casino, ser fedt ud 😄",2026-04-13 19:32:00,normal,False,False,none
-228,75,hvorfor giver slottene aldrig bonus når man virkelig har brug for det lol,2026-04-13 19:34:00,gambling,False,True,low
-229,4,"Tredje gang i dag jeg rammer bonus runden på Dead or Alive 2, dagens helt klart!",2026-04-13 19:36:00,normal,False,False,none
-230,40,"ej hvor er det bare FEDT at tabe 500 kr på 10 minutter, virkelig god underholdning 👍",2026-04-13 19:38:00,edge_case,,,ambiguous
-231,74,"Fedt nok at jeg tabte 500 kr på 10 minutter, det var da en oplevelse værd 😂",2026-04-13 19:40:00,edge_case,,,ambiguous
-232,49,Nogen der spiller live casino nu?,2026-04-13 19:42:00,both,True,True,medium
-233,51,"jøsses hvor er det træls, 10 free spins og nul kroner",2026-04-13 19:44:00,hate_speech,True,False,low
-234,26,Nogen der kan anbefale et godt blackjack strategi kort?,2026-04-13 19:46:00,both,True,True,medium
-235,10,"fik 847x på gates of olympus i går, stadig ikke over det 😭",2026-04-13 19:48:00,normal,False,False,none
-236,76,min kone tror jeg er på arbejde men jeg sidder her og spiller for vores husleje,2026-04-13 19:50:00,gambling,False,True,high
-237,32,God aften alle! Håber i alle vinder noget fedt i aften 🎰,2026-04-13 19:52:00,normal,False,False,none
-238,14,"haha typisk, lige præcis når jeg sætter det mindste beløb så lander den på 0... klassiker",2026-04-13 19:54:00,edge_case,,,ambiguous
-239,39,"Hmm support svarer ikke på min mail, har de en live chat eller?",2026-04-13 19:56:00,normal,False,False,none
-240,77,"stik af fra bordet din snylter, du ødelægger spillet for alle andre",2026-04-13 19:58:00,hate_speech,True,False,medium
-241,16,"Hej alle sammen, første gang jeg er herinde",2026-04-13 20:00:00,both,True,True,medium
-242,73,Er der nogen turnering på i weekenden? Så noget om det men kan ikke finde info,2026-04-13 20:02:00,normal,False,False,none
-243,6,nogen der ved om der er turneringer i dag?,2026-04-13 20:04:00,normal,False,False,none
-244,45,"okay det her er bare møg, undskyld mig",2026-04-13 20:06:00,hate_speech,True,False,low
-245,69,din kælling kan ikke engang spille basic strategi lol,2026-04-13 20:08:00,hate_speech,True,False,medium
-246,55,"hold da kæft det her er irriterende, 5 gange i træk uden gevinst",2026-04-13 20:10:00,hate_speech,True,False,low
-247,48,nogen der ved om de har dansk support på telefon eller kun chat?,2026-04-13 20:12:00,normal,False,False,none
-248,9,Wuhuu endelig en gevinst!! Nu spiller jeg bare videre til jeg har vundet det hele tilbage igen,2026-04-13 20:14:00,edge_case,,,ambiguous
-249,65,"God aften folkens, hvad spiller I i dag?",2026-04-13 20:16:00,normal,False,False,none
-250,44,"Bonusbetingelserne her er lidt høje synes jeg, 35x omsætning er meget",2026-04-13 20:18:00,normal,False,False,none
-251,2,"Hvad fanden er det her, jeg har tabt 3 gange i træk på den her maskine",2026-04-13 20:20:00,hate_speech,True,False,low
-252,54,"Mega fed session i dag, op med 800kr på 2 timer",2026-04-13 20:22:00,both,True,True,medium
-253,63,"Nå nå nå 3000 kr op, nu stopper jeg SELVFØLGELIG... eller måske bare en runde til",2026-04-13 20:24:00,edge_case,,,ambiguous
-254,14,"Denne blackjack dealer er klart imod mig personligt, det kan jeg mærke",2026-04-13 20:26:00,edge_case,,,ambiguous
-255,56,"nå men nu prøver jeg lige en gang til, det MÅ jo vende",2026-04-13 20:28:00,edge_case,,,ambiguous
-256,47,mega spændende at følge med i live dealer bordet,2026-04-13 20:30:00,normal,False,False,none
-257,59,"jeg ved hvor du bor din lort, pas på dig selv når du logger af",2026-04-13 20:32:00,hate_speech,True,False,high
-258,20,2000x win på Big Bass Bonanza!! Troede ikke det var rigtigt 😱😱,2026-04-13 20:34:00,both,True,True,medium
-259,56,hvornår plejer velkomstbonussen at lande på kontoen?,2026-04-13 20:36:00,normal,False,False,none
-260,23,typisk at det er sådan en fed gris der sidder og spilder vores tid i chatten her,2026-04-13 20:38:00,hate_speech,True,False,medium
-261,67,"Spillede poker hele weekenden, endte plus 340 kr samlet. Tager den!",2026-04-13 20:40:00,normal,False,False,none
-262,35,er det normalt at man ikke kan spise eller sove fordi man hele tiden tænker på om man ville have vundet hvis man havde spillet videre,2026-04-13 20:42:00,gambling,False,True,high
-263,79,"Endelig! Free spins feature på Reactoonz, nu holder vi fingre krydset 🤞",2026-04-13 20:44:00,normal,False,False,none
-264,69,hvis du ikke holder din kæft snart kommer jeg og finder dig din lille lort,2026-04-13 20:46:00,hate_speech,True,False,high
-265,62,"Ugh, 3. gang denne uge jeg buster på blackjack med 20 i hånden 😤",2026-04-13 20:48:00,normal,False,False,none
-266,60,Nogen der har prøvet den nye slot der kom i går? Den med vikingerne,2026-04-13 20:50:00,both,True,True,medium
-267,56,okay jeg stopper efter denne her runde. nej men for alvor denne gang,2026-04-13 20:52:00,edge_case,,,ambiguous
-268,76,solgte min ps5 for at have penge til at spille videre i dag. vinder dem nok hurtigt tilbage,2026-04-13 20:54:00,gambling,False,True,medium
-269,35,"FUCK FUCK FUCK tabte det hele igen, min bonus på 25k bare væk på 20 min, indsætter nu",2026-04-13 20:56:00,gambling,False,True,high
-270,42,"Prøvede gonzo's quest for første gang, ret nice faktisk",2026-04-13 20:58:00,normal,False,False,none
-271,32,Lige mistet min gevinst fordi jeg var for grådig og ikke stoppede... klassisk fejl 😅 ses igen i morgen,2026-04-13 21:00:00,normal,False,False,none
-272,12,kan man låne fra sin bonus konto eller hvad? er tør men spillet er ved at vende,2026-04-13 21:02:00,gambling,False,True,medium
-273,36,har nogen tips til hvilke slots der har høj RTP?,2026-04-13 21:04:00,normal,False,False,none
-274,58,hjalp nogen af jer nogensinde jer selv ud af et hul på 10k?? spørger for en ven lol,2026-04-13 21:06:00,gambling,False,True,medium
-275,32,"Udbetaling tog kun 2 dage denne gang, hurtigere end sidst 👍",2026-04-13 21:08:00,normal,False,False,none
-276,60,Er der overhovedet nogen der vinder her eller hvad??? Virker mærkeligt,2026-04-13 21:10:00,hate_speech,True,False,low
-277,73,"HOLD NU KÆFT med dine dumme tips din spastik, vi vil ikke høre på dig mere",2026-04-13 21:12:00,hate_speech,True,False,medium
-278,79,"for søren da, tabte på allerseneste sekund",2026-04-13 21:14:00,hate_speech,True,False,low
-279,49,nogen der spiller meget om natten? virker som om RTP er bedre om natten idk,2026-04-13 21:16:00,gambling,False,True,low
-280,44,"min bonus er brugt, min konto er brugt, og jeg sidder og overvejer at bruge næste måneds husleje. hjælp",2026-04-13 21:18:00,gambling,False,True,medium
-281,4,JACKPOT PÅ MEGA MOOLAH!! neeej det sker ikke for mig 😭😭 men tillykke til den heldige!,2026-04-13 21:20:00,normal,False,False,none
-282,64,har siddet her i 2 timer og er kun op med 50 kr... ikke ligefrem min dag,2026-04-13 21:22:00,normal,False,False,none
-283,42,"seriøst skuffet over aftenens session, det her gik ikke som planlagt",2026-04-13 21:24:00,gambling,False,True,low
-284,24,"tabt 40k på en måned. det er ikke rigtige penge mere, det er bare tal på en skærm",2026-04-13 21:26:00,gambling,False,True,high
-285,63,TREDJE gang jeg topper op i dag. det her er det sidste. det lover jeg mig selv,2026-04-13 21:28:00,gambling,False,True,medium
-286,28,"min kæreste tror jeg er gået tidligt i seng lol, sidder her og prøver at vinde madpengene tilbage",2026-04-13 21:30:00,gambling,False,True,medium
-287,46,ARGH tabte 800 på den her spin!! sætter 1600 ind næste gang så får jeg det tilbage med renter. det er matematik,2026-04-13 21:32:00,gambling,False,True,medium
-288,34,"Roulette er ren gambling lmao, men det er jo det sjove ved det",2026-04-13 21:34:00,normal,False,False,none
-289,44,"du er så elendig at selv algoritmerne ler af dig, krepér",2026-04-13 21:36:00,hate_speech,True,False,high
-290,36,hold kæft mand din usle lille snotunge,2026-04-13 21:38:00,hate_speech,True,False,medium
-291,77,Er der nogen der bruger Mobilepay her eller kun kort?,2026-04-13 21:40:00,normal,False,False,none
-292,36,"Vandt 1200 på poker turnering i aftes, sindssygt fedt",2026-04-13 21:42:00,normal,False,False,none
-293,72,"tag og dø din ubrugelige spasser, casinoet ville være bedre uden dig",2026-04-13 21:44:00,hate_speech,True,False,high
-294,2,Håber i alle har en god aften og masser af held 🍀,2026-04-13 21:46:00,both,True,True,medium
-295,67,håber casinoet baner dig for evigt din irriterende skiderik,2026-04-13 21:48:00,hate_speech,True,False,medium
-296,25,"Sweet Bonanza er enten genialt eller totalt skrald, ingen mellemting",2026-04-13 21:50:00,normal,False,False,none
-297,11,"Tabte alt på 20 min, det er bare sådan det er nogle gange haha",2026-04-13 21:52:00,both,True,True,medium
-298,31,"ok sidst for i aften, indsætter bare 2000 mere og stopper når jeg har vundet det tilbage",2026-04-13 21:54:00,gambling,False,True,high
-299,53,Big Bass Bonanza er blevet min nye afhængighed lmao,2026-04-13 21:56:00,normal,False,False,none
-300,63,Er der nogen bonus aktiv lige nu eller har jeg misset det?,2026-04-13 21:58:00,normal,False,False,none
-301,72,"lige hævet 600 kr, det er dagens gevinst og jeg stopper nu 💪",2026-04-13 22:00:00,normal,False,False,none
-302,31,Hvornår plejer bonusserne at blive opdateret? Er det hver mandag eller hvad?,2026-04-13 22:02:00,normal,False,False,none
-303,61,har spillet i 11 timer nu og er nede med 9000. er for træt til at stoppe nu,2026-04-13 22:04:00,gambling,False,True,medium
-304,63,"spiller næsten hver dag efter arbejde, det er ligesom min måde at koble af på",2026-04-13 22:06:00,gambling,False,True,low
-305,58,Dealer på live roulette er sgu sød i aften haha,2026-04-13 22:08:00,normal,False,False,none
-306,3,kys røv din arrogante svin,2026-04-13 22:10:00,hate_speech,True,False,medium
-307,12,Volatilitet er vigtig at kigge på folk! Høj volatilitet = større men sjældnere gevinster,2026-04-13 22:12:00,normal,False,False,none
-308,38,"har mistet overblikket over hvad jeg har tabt i dag, men okay",2026-04-13 22:14:00,gambling,False,True,low
-309,29,"Hej alle sammen! Første gang jeg prøver dette casino, ser fedt ud 😄",2026-04-13 22:16:00,normal,False,False,none
-310,52,"shutup din mongo, ingen gider høre på dig",2026-04-13 22:18:00,hate_speech,True,False,high
-311,32,"du er den mest håbløse taber jeg har mødt her, forsvind fra chatten",2026-04-13 22:20:00,hate_speech,True,False,high
-312,40,Tillykke @MikkelDK med gevinsten!! Det var stort,2026-04-13 22:22:00,normal,False,False,none
-313,75,"fed dag idag, fire på stribe på blackjack 🙌",2026-04-13 22:24:00,normal,False,False,none
-314,48,"wtf wtf wtf mistet alt igen. okay bare rolig, 1000 mere og så kører vi",2026-04-13 22:26:00,gambling,False,True,medium
-315,61,hmm interessant at den altid nærmer sig men aldrig rammer når man sidder og ser på,2026-04-13 22:28:00,edge_case,,,ambiguous
-316,71,"min konto er suspenderet og jeg er desperat, lav venligst en ny konto til mig eller fortæl mig hvordan jeg omgår det, jeg skylder folk penge og skal vinde dem tilbage NU",2026-04-13 22:30:00,gambling,False,True,high
-317,68,"okay seriøst hvad sker der med mine kort i dag, taber alt",2026-04-13 22:32:00,gambling,False,True,low
-318,45,Lige landet 500kr på Gates of Olympus!!! LEEEETS GOOO,2026-04-13 22:34:00,normal,False,False,none
-319,55,Ugh tredje gang i træk jeg mister på roulette... skifter til slots,2026-04-13 22:36:00,normal,False,False,none
-320,71,"hold da kæft hvor er du dum i hovedet, det er IKKE sådan spillet virker din idiot",2026-04-13 22:38:00,hate_speech,True,False,medium
-321,43,"Kundeservice her er faktisk ret hurtige til at svare, nice",2026-04-13 22:40:00,normal,False,False,none
-322,46,"ingen respekterer dig her, pak dine ting og forsvind",2026-04-13 22:42:00,hate_speech,True,False,medium
-323,59,gg til alle 🎰,2026-04-13 22:44:00,both,True,True,medium
-324,35,Nogen der har prøvet den nye slot med vikinger? Den ser fed ud,2026-04-13 22:46:00,normal,False,False,none
-325,40,YES ENDELIG omg jeg har siddet her i 2 timer og nu sker det altså,2026-04-13 22:48:00,edge_case,,,ambiguous
-326,33,"Har siddet og spillet i 2 timer nu, gik i nul til sidst lol",2026-04-13 22:50:00,normal,False,False,none
-327,30,det er simpelthen for dumt at spillet lagger så meget,2026-04-13 22:52:00,hate_speech,True,False,low
-328,16,"Prøv Reactoonz, den har givet mig flest gevinster på det seneste",2026-04-13 22:54:00,both,True,True,medium
-329,25,"Haha mit held er vildt, tabte 1500 og vandt 1600 tilbage, ER JEG IKKE GOD???",2026-04-13 22:56:00,edge_case,,,ambiguous
-330,41,"woooow 1200 kr!!! første gang jeg vinder noget ordentligt i ugevis, det er vildt",2026-04-13 22:58:00,edge_case,,,ambiguous
-331,16,"min kæreste synes jeg bruger for meget tid på det her, men hun forstår det ikke rigtig",2026-04-13 23:00:00,gambling,False,True,low
-332,69,"Blackjack bordet er fuldstændig vanvittigt i aften, dealer har haft 7 gange i træk over 18",2026-04-13 23:02:00,both,True,True,medium
-333,24,Live roulette eller almindelig? Hvad foretrækker i?,2026-04-13 23:04:00,both,True,True,medium
-334,25,"Har spillet her i 2 år, kundeservice er faktisk ret god hvis man har problemer",2026-04-13 23:06:00,normal,False,False,none
-335,28,Hold nu op hvor er det svært at ramme free spins i dag lol,2026-04-13 23:08:00,normal,False,False,none
-336,62,"din far burde have trukket sig ud din lille ulykke, forsvind herfra",2026-04-13 23:10:00,hate_speech,True,False,high
-337,36,Hvad er jeres foretrukne spilleautomat? Jeg er total vild med Gonzo's Quest,2026-04-13 23:12:00,normal,False,False,none
-338,76,jeg håber du mister alt hvad du har din elendige stykke skrald,2026-04-13 23:14:00,hate_speech,True,False,high
-339,68,er du fucking retarderet eller hvad?? ingen kan være så dårlig,2026-04-13 23:16:00,hate_speech,True,False,medium
-340,77,gg til dem der vandt i det store turnering i weekenden,2026-04-13 23:18:00,both,True,True,medium
-341,37,"De er åbne 24/7 vidt jeg ved, bare skriv til dem",2026-04-13 23:20:00,normal,False,False,none
-342,13,"Enig, virker meget mere smooth nu på mobil",2026-04-13 23:22:00,normal,False,False,none
-343,25,"Roulette er mit guilty pleasure, ved godt det er dårlige odds men kan ikke lade være haha",2026-04-13 23:24:00,normal,False,False,none
-344,38,"fandt ud af at min kone sover, så jeg lige hopper på et par runder til",2026-04-13 23:26:00,gambling,False,True,low
-345,30,"Hvem har opfundet autoplay, den person er enten et geni eller djævelen selv",2026-04-13 23:28:00,edge_case,,,ambiguous
-346,47,"altså man skulle tro algoritmen kendte mig personligt, den ved præcis hvornår jeg har penge på kontoen",2026-04-13 23:30:00,edge_case,,,ambiguous
-347,23,Synes bonussen her er ret god ift andre steder jeg har spillet,2026-04-13 23:32:00,both,True,True,medium
-348,39,"Starburst er stadig min favorit efter alle disse år, klassiker",2026-04-13 23:34:00,normal,False,False,none
-349,2,"Mega fed bonus jeg fik i dag, 200 free spins på Starburst!!",2026-04-13 23:36:00,normal,False,False,none
-350,69,"Hmm support svarer lidt langsomt i dag, nogen der har samme oplevelse?",2026-04-13 23:38:00,normal,False,False,none
-351,17,Min strategi på blackjack: basic strategy + held. Virker 50% af gangen lol,2026-04-13 23:40:00,normal,False,False,none
-352,36,"din fucking amateur, ødelæg ikke spillet for os andre",2026-04-13 23:42:00,hate_speech,True,False,medium
-353,6,fedt nok at du taber alle dine penge din fucking taber lmao,2026-04-13 23:44:00,hate_speech,True,False,medium
-354,7,God aften alle! Håber i har held og lykke i aften 🍀,2026-04-13 23:46:00,normal,False,False,none
-355,71,hvornår kommer min næste indbetaling igennem? er i gang med en session der ikke kan afbrydes nu,2026-04-13 23:48:00,gambling,False,True,high
-356,38,Lige ramt 500 kr gevinst på Book of Dead!! YEW!!,2026-04-13 23:50:00,both,True,True,medium
-357,17,"ugh kan i ikke bare udbetale hurtigere, det er til at blive sindssyg af",2026-04-13 23:52:00,hate_speech,True,False,low
-358,63,næste gang du snyder mig i et spil så knuser jeg dig dit lille kryb,2026-04-13 23:54:00,hate_speech,True,False,high
-359,14,"øv mand, der gik huslejen lol... nej jeg joker, men stadig irriterende",2026-04-13 23:56:00,hate_speech,True,False,low
-360,2,"go dø din uduelige stykke lort, casinoet er fyldt med bønder som dig",2026-04-13 23:58:00,hate_speech,True,False,high
-361,74,"Roulette er min guilty pleasure, jeg ved godt odds er dårlige men det er bare så fedt",2026-04-14 00:00:00,normal,False,False,none
-362,37,"hold da op hvor er du et latterligt lille fjols, gå hjem og græd til din mor",2026-04-14 00:02:00,hate_speech,True,False,high
-363,61,ej jeg håber bare ikke min kæreste tjekker kontoen i morgen haha... haha... ha,2026-04-14 00:04:00,edge_case,,,ambiguous
-364,62,Nogen der har prøvet Book of Dead? Er det værd at spille?,2026-04-14 00:06:00,normal,False,False,none
-365,57,Haha tabte lige min gevinst igen men det var fedt mens det varede!! Life is good,2026-04-14 00:08:00,edge_case,,,ambiguous
-366,44,"Tager altid et lille break efter 30 min, hjælper på fokus",2026-04-14 00:10:00,both,True,True,medium
-367,24,Det er nok bare flaks men jeg vinder altid mere om mandagen haha,2026-04-14 00:12:00,normal,False,False,none
-368,7,hold da op du er fucking dum i hovedet mand,2026-04-14 00:14:00,hate_speech,True,False,medium
-369,33,"okay jeg er lidt sur lige nu, har brugt hele min løn-buffer på 2 dage... nåh men det vender nok",2026-04-14 00:16:00,gambling,False,True,low
-370,62,hvad fanden er det for noget lort det her spil,2026-04-14 00:18:00,hate_speech,True,False,low
-371,15,du lugter af taber helt ind gennem skærmen,2026-04-14 00:20:00,hate_speech,True,False,medium
-372,9,"HVAD FANDEN, taber igen??? okay 500 mere så slutter jeg",2026-04-14 00:22:00,gambling,False,True,medium
-373,52,"solgte mit ur idag for at have penge til at spille, et rolex jeg har haft i 10 år",2026-04-14 00:24:00,gambling,False,True,high
-374,63,6 timers session og tabt 8000 kr. indsætter de sidste 3000 fra min opsparing nu,2026-04-14 00:26:00,gambling,False,True,high
-375,10,"jeg har tabt 15000 kr idag og jeg kan simpelthen ikke stoppe, bare en mere og jeg vinder det tilbage",2026-04-14 00:28:00,gambling,False,True,high
-376,74,din kone/kæreste er sikkert glad for at slippe for din stumpede fjes når du sidder her,2026-04-14 00:30:00,hate_speech,True,False,high
-377,7,bonus wageren er sgu lidt høj synes jeg,2026-04-14 00:32:00,normal,False,False,none
-378,20,Nogen tips til hvilke slots der er varme pt? Har prøvet 5 forskellige uden held,2026-04-14 00:34:00,normal,False,False,none
-379,20,Nogen andre der synes live casino dealer er meget sjovere end de normale spil?,2026-04-14 00:36:00,normal,False,False,none
-380,73,satans maskine giver aldrig noget,2026-04-14 00:38:00,hate_speech,True,False,low
-381,39,"Lige fået udbetalt mine penge på under en time, super fedt!",2026-04-14 00:40:00,normal,False,False,none
-382,11,denne slotter er så nice når man ikke tænker på hvad man bruger,2026-04-14 00:42:00,edge_case,,,ambiguous
-383,32,er der nogen der spiller poker herinde eller er det kun slots folk?,2026-04-14 00:44:00,normal,False,False,none
-384,16,Hvad er min favoritslot? Svært spørgsmål... nok Gonzo's Quest hvis jeg skal være ærlig,2026-04-14 00:46:00,normal,False,False,none
-385,72,Er der nogen her fra Aarhus? Bare nysgerrig haha,2026-04-14 00:48:00,normal,False,False,none
-386,54,"sgu nødt til at vinde de 6000 tilbage inden min mand ser kontoudtoget, har 2 dage",2026-04-14 00:50:00,gambling,False,True,medium
-387,78,"NEEEEJ den ramte ved siden af, jeg troede bare jeg havde vundet 800 spænd",2026-04-14 00:52:00,edge_case,,,ambiguous
-388,77,"du er mentalt retarderet, det er den eneste forklaring på at du spiller så lorte",2026-04-14 00:54:00,hate_speech,True,False,high
-389,80,"tabt SÅ mange penge her men fortsætter, en stor gevinst og alting er godt igen",2026-04-14 00:56:00,gambling,False,True,medium
-390,29,Støtte chat siger jeg skal kontakte spillemyndigheden hvis jeg vil klage... det er da god kundeservice 👏,2026-04-14 00:58:00,edge_case,,,ambiguous
-391,67,"Har prøvet at kontakte support i 20 min, svarer slet ikke... frustrerende",2026-04-14 01:00:00,normal,False,False,none
-392,49,"fedt nok system i har her, virkelig. pengene flyver bare ud af lommen 👏",2026-04-14 01:02:00,edge_case,,,ambiguous
-393,58,luk din kæft og spil eller forsvind din taber,2026-04-14 01:04:00,hate_speech,True,False,medium
-394,57,"Tak for tipset med den der bonus kode, virkede perfekt 👍",2026-04-14 01:06:00,both,True,True,medium
-395,39,"Rouletten her er 100% manipuleret, rød er kommet 12 gange i træk, hvad er sandsynligheden for det???",2026-04-14 01:08:00,edge_case,,,ambiguous
-396,76,Nogen der kender til om de har mobile pay her?,2026-04-14 01:10:00,both,True,True,medium
-high397,55,din mor er en billig hore og det er nok derfor du er så elendig til alt,2026-04-14 01:12:00,hate_speech,True,False,
-398,40,"Live dealer blackjack er bare på et andet niveau, elsker det",2026-04-14 01:14:00,normal,False,False,none
-399,73,"Min hævning tog 3 dage sidst, det er lidt lang tid synes jeg",2026-04-14 01:16:00,both,True,True,medium
-400,80,måske burde jeg stoppe nu men jeg er bare SÅ tæt på at vinde det tilbage,2026-04-14 01:18:00,gambling,False,True,low
-401,8,"Den her live dealer er seriøst sej, meget professionel",2026-04-14 01:20:00,normal,False,False,none
-402,79,ugh tabte 800 kr på 20 min. skal nok tage en pause snart... eller måske en enkelt runde mere,2026-04-14 01:22:00,gambling,False,True,low
-403,13,nogen der har tricks til at få sin bonus hurtigere? skal bruge pengene til husleje om 3 dage,2026-04-14 01:24:00,gambling,False,True,medium
-404,27,hahaha nej men altså... jo... det er jo sjovt... på en måde,2026-04-14 01:26:00,edge_case,,,ambiguous
-405,28,"wtf tabte ALT på 3 spins, det er vildt hvor hurtigt det kan gå",2026-04-14 01:28:00,normal,False,False,none
-406,34,sidder her kl 3 om natten og er nede med 4000. konen ved det ikke. skal bare have en stor gevinst,2026-04-14 01:30:00,gambling,False,True,medium
-407,11,"roulette er ren gambling, hold jer til blackjack hvis I vil have lidt kontrol",2026-04-14 01:32:00,normal,False,False,none
-408,21,"Har spillet her i 2 år, support er virkelig god hvis man har problemer",2026-04-14 01:34:00,normal,False,False,none
-409,31,Er der bonus hvis man inviterer en ven?,2026-04-14 01:36:00,normal,False,False,none
-410,23,Er der nogen der ved hvornår de kommer med nye spil? Trænger til noget nyt,2026-04-14 01:38:00,normal,False,False,none
-411,71,klogt!! cash out mens du kan,2026-04-14 01:40:00,normal,False,False,none
-412,10,"har siddet her siden frokost, men det er jo det bedste man kan gøre en regnvejrsdag ikk",2026-04-14 01:42:00,gambling,False,True,low
-413,21,"Pis og lort, tabte hele min bonus på 10 minutter",2026-04-14 01:44:00,hate_speech,True,False,low
-414,1,"det her spil er SÅ rigged, nej jeg mener det seriøst, det er ikke normalt",2026-04-14 01:46:00,edge_case,,,ambiguous
-415,53,"Mega fed atmosfære i live casino, dealerne er altid søde",2026-04-14 01:48:00,both,True,True,medium
-416,58,Lige landet 500 kr på Book of Dead!! 🎉,2026-04-14 01:50:00,normal,False,False,none
-417,77,"Seriøst det bedste casino ever, man taber KUN sine penge hahahaha",2026-04-14 01:52:00,edge_case,,,ambiguous
-418,61,"Hmm udbetalingen tog lidt længere end forventet, nogen haft samme oplevelse?",2026-04-14 01:54:00,both,True,True,medium
-419,38,"Har spillet her i over et år, og jeg synes faktisk udvalget er blevet meget bedre",2026-04-14 01:56:00,normal,False,False,none
-420,5,"kan i ikke bare give mig en undtagelse på indsætningsgrænsen? jeg er loyal kunde og har brug for at vinde mine penge hjem i aften, det haster virkelig",2026-04-14 01:58:00,gambling,False,True,high
-421,30,pragmatic play laver fandme gode spil,2026-04-14 02:00:00,normal,False,False,none
-422,37,okay sidste 200 og så er jeg færdig for i aften. det siger jeg hver gang men nu mener jeg det,2026-04-14 02:02:00,gambling,False,True,medium
-423,37,"God aften allesammen, håber I alle vinder noget fedt i aften!",2026-04-14 02:04:00,normal,False,False,none
-424,59,God aften alle. Sætter mig til en rolig omgang poker inden sengetid,2026-04-14 02:06:00,normal,False,False,none
-425,10,nej nej nej ikke igen!!! det var mine sidste 500 kr og nu er de også væk. jeg sætter bare ind igen og vinder dem tilbage det plejer at virke,2026-04-14 02:08:00,gambling,False,True,medium
-426,30,"Lidt langsomt i chatten i dag haha, er alle ude at nyde sommeren?",2026-04-14 02:10:00,normal,False,False,none
-427,34,"hold din kæft din spasser, ingen gider høre på dig",2026-04-14 02:12:00,hate_speech,True,False,high
-428,76,"Indsatte 200 og er oppe på 1400 nu, tænker jeg stopper her 😂",2026-04-14 02:14:00,normal,False,False,none
-429,26,"kan ikke forstå hvordan jeg kan tabe så meget på en time, det er jo umuligt",2026-04-14 02:16:00,gambling,False,True,low
-430,55,"har sat mit daglige limit op lidt, 500 var bare ikke nok til en ordentlig session",2026-04-14 02:18:00,gambling,False,True,low
-431,15,"Altså de her free spins regler er lidt komplicerede, nogen der kan forklare wager kravet?",2026-04-14 02:20:00,both,True,True,medium
-432,70,"Hejsa alle sammen! Første gang jeg er her, hvad er det fedeste spil at starte med?",2026-04-14 02:22:00,normal,False,False,none
-433,29,jeg finder din profil og sørger for alle ved hvem du er din patetiske lille fyr,2026-04-14 02:24:00,hate_speech,True,False,high
-434,20,"Sidder og snacker chips og spiller slots, perfekt fredagsaften hvis du spørger mig",2026-04-14 02:26:00,normal,False,False,none
-435,35,"prøv Big Bass Bonanza, har givet mig meget de seneste dage",2026-04-14 02:28:00,normal,False,False,none
-436,19,"Jeg spiller altid med laveste indsats når jeg tester et nyt spil, anbefaler det",2026-04-14 02:30:00,normal,False,False,none
-437,10,"jeg ved hvor du bor din lille kryster, pas på dig selv",2026-04-14 02:32:00,hate_speech,True,False,high
-438,8,hvad fanden laver du?? din totale idiot,2026-04-14 02:34:00,hate_speech,True,False,medium
-439,22,"jeg ved jeg skal stoppe men fingrene bare fortsætter med at klikke, er der nogen der kender det her",2026-04-14 02:36:00,gambling,False,True,high
-440,40,"Pragmatic Play laver altså nogle gode spil, Diamond Strike er top",2026-04-14 02:38:00,normal,False,False,none
-441,77,"Hvilken udbyder synes folk er bedst, NetEnt eller Pragmatic?",2026-04-14 02:40:00,both,True,True,medium
-442,73,"Velkommen til de nye! Husk nu at sætte et indskudsmax, det er klogt 👍",2026-04-14 02:42:00,normal,False,False,none
-443,37,"min løn holder ikke helt til slutningen af måneden men whatever, et par kroner kan ikke gøre det værre",2026-04-14 02:44:00,gambling,False,True,low
-444,57,"Book of Dead er klassikeren, kan aldrig gå galt med den",2026-04-14 02:46:00,normal,False,False,none
-445,16,"Mega frustrerende, har spillet i en time og ingenting sker på Dead or Alive",2026-04-14 02:48:00,both,True,True,medium
-446,60,haha ja zeus er grådig som altid,2026-04-14 02:50:00,normal,False,False,none
-447,39,"Shoutout til alle der spiller ansvarligt, I er de rigtige vindere 👍",2026-04-14 02:52:00,normal,False,False,none
-448,52,Hvornår lukker live support? Skal have hjælp til en udbetaling,2026-04-14 02:54:00,normal,False,False,none
-449,35,Jeg er ikke afhængig jeg nyder bare at spille i 6 timer i træk det er HELT normalt,2026-04-14 02:56:00,edge_case,,,ambiguous
-450,65,"Bare rolig jeg har TOTAL styr på det, jeg sætter kun ind hvad jeg har råd til... næsten",2026-04-14 02:58:00,edge_case,,,ambiguous
-451,70,"Husk nu at tage pauser folk, det gør spillet sjovere på lang sigt",2026-04-14 03:00:00,normal,False,False,none
-452,64,"tabt 120.000 siden januar. det er mit første og andet realkreditlån. kan i ikke bare lukke min konto så jeg ikke kan spille mere, nej vent gør det ikke",2026-04-14 03:02:00,gambling,False,True,high
-453,57,nogen der har prøvet Sweet Bonanza? er den værd at spille?,2026-04-14 03:04:00,normal,False,False,none
-454,11,Hvad er min bedste strategi på blackjack? Spørger for en ven 😂,2026-04-14 03:06:00,normal,False,False,none
-455,77,"ej jeg er så heldig i dag, har vundet 3 gange i træk, det sker aldrig normalt",2026-04-14 03:08:00,edge_case,,,ambiguous
-456,6,Hvilken betalingsmetode er hurtigst til udbetaling? MobilePay eller bankoverførsel?,2026-04-14 03:10:00,normal,False,False,none
-457,56,"Tak for ingenting support, tog kun 45 min at få svar på et simpelt spørgsmål 👍",2026-04-14 03:12:00,edge_case,,,ambiguous
-458,42,"det er UMULIGT at spillet er så uretfærdigt, indsætter 2000 mere for at bevise det",2026-04-14 03:14:00,gambling,False,True,medium
-459,78,"De her free spins er sgu da ingenting værd, vinder aldrig noget på dem",2026-04-14 03:16:00,normal,False,False,none
-460,33,WOOOOO jackpot!!!!! tror ikke det er virkeligt,2026-04-14 03:18:00,both,True,True,medium
-461,4,"har ikke sovet i 2 dage, spillet hele vejen igennem, er du stadig der casino? bare en chance mere",2026-04-14 03:20:00,gambling,False,True,high
-462,12,Hvad er min bonus hvis jeg indbetaler 200kr?,2026-04-14 03:22:00,normal,False,False,none
-463,30,"Spiller altid med lav indsats, varer længere og er mere sjovt for mig",2026-04-14 03:24:00,both,True,True,medium
-464,74,"Spilte for første gang med rigtige penge i dag, lidt nervøst men fedt",2026-04-14 03:26:00,both,True,True,medium
-465,76,"Pragmatic Play laver virkelig gode spil, Sweet Bonanza er stadig et hit",2026-04-14 03:28:00,normal,False,False,none
-466,3,"wtf hvordan kan man tabe 3 gange i træk på roulette, det er sgu ikke normalt",2026-04-14 03:30:00,gambling,False,True,low
-467,35,"Lorte held jeg har i dag, intet virker",2026-04-14 03:32:00,hate_speech,True,False,low
-468,74,live roulette er bare et andet niveau når dealeren er god,2026-04-14 03:34:00,normal,False,False,none
-469,6,"3 timer og kun minus, skide irriterende",2026-04-14 03:36:00,hate_speech,True,False,low
-470,23,"Skide godt casino, man bliver altid behandlet fair... hvis man taber da haha",2026-04-14 03:38:00,edge_case,,,ambiguous
-471,61,"jeg har tabt 4000 kr de sidste 2 timer men jeg kan mærke at jeg er ved at vende det, skal bare have en stor win nu",2026-04-14 03:40:00,gambling,False,True,medium
-472,67,er der andre der oplever at man bare IKKE kan stoppe selvom man ved man burde? spørger for en ven lol,2026-04-14 03:42:00,gambling,False,True,low
-473,57,kan man låne penge her eller kender nogen et sted? har tømt kontoen og har stadig 3 timer til midnat og vil ikke stoppe mens jeg er bagud,2026-04-14 03:44:00,gambling,False,True,medium
-474,36,hvad er bedste strategi på blackjack? spørger for en ven lol,2026-04-14 03:46:00,normal,False,False,none
-475,24,håber casinoet tager alle dine penge og at du ender på gaden din nørd,2026-04-14 03:48:00,hate_speech,True,False,high
-476,75,Nogen der ved om der kommer tilbud i weekenden?,2026-04-14 03:50:00,normal,False,False,none
-477,56,"tredje dag i træk herinde, håber det vender snart",2026-04-14 03:52:00,gambling,False,True,low
-478,63,gå dog bare konkurs allerede og spar os alle for din tilstedeværelse,2026-04-14 03:54:00,hate_speech,True,False,medium
-479,12,min kone tror jeg er på arbejde... jeg er ikke på arbejde,2026-04-14 03:56:00,normal,False,False,none
-480,61,tabt 200 og vundet 180... kalder det en næsten-sejr 😅,2026-04-14 03:58:00,normal,False,False,none
-481,45,"Lige vundet nok til at dække min indskud, tager det som en sejr og stopper for i dag",2026-04-14 04:00:00,normal,False,False,none
-482,53,"Hej jeg er ny her, hvad skal man starte med at spille?",2026-04-14 04:02:00,normal,False,False,none
-483,43,"Sweet Bonanza er blevet min yndlingsslot, bare lige FYI",2026-04-14 04:04:00,normal,False,False,none
-484,42,"helvede til, endnu en bonus uden noget som helst",2026-04-14 04:06:00,hate_speech,True,False,low
-485,14,"okay lige én runde mere så stopper jeg, det siger jeg bare",2026-04-14 04:08:00,gambling,False,True,low
-486,21,Har nogen prøvet det nye live casino rum? Ser ret schægt ud,2026-04-14 04:10:00,normal,False,False,none
-487,43,du er et menneskeligt affaldsprodukt og burde aldrig have fået adgang til internettet,2026-04-14 04:12:00,hate_speech,True,False,high
-488,53,"jaja selvfølgelig taber jeg igen, hvad havde jeg ellers forventet 🙃",2026-04-14 04:14:00,edge_case,,,ambiguous
-489,64,"Ej det var en god session, kun minus 300 det er næsten som en gevinst i mine øjne",2026-04-14 04:16:00,edge_case,,,ambiguous
-490,37,"har brugt hele min opsparing nu men spillet skifter snart, big win er på vej kan mærke det på mig",2026-04-14 04:18:00,gambling,False,True,medium
-491,52,nogen der har prøvet det nye slot de lagde op i går?,2026-04-14 04:20:00,normal,False,False,none
-492,71,"kan i ikke bare give mig et lille lån på kontoen, jeg betaler dobbelt tilbage i morgen, jeg lover",2026-04-14 04:22:00,gambling,False,True,high
-493,5,Nogen der har erfaring med poker turnering her? Tænker på at tilmelde mig,2026-04-14 04:24:00,normal,False,False,none
-494,59,"slots er underholdning, ikke en investering. glem det aldrig",2026-04-14 04:26:00,normal,False,False,none
-495,12,"Hej alle sammen! Første gang jeg prøver dette casino, ser ret fedt ud 😄",2026-04-14 04:28:00,normal,False,False,none
-496,41,"Tip: Spil altid med det laveste bet først på nye spil, så lærer man dem at kende",2026-04-14 04:30:00,normal,False,False,none
-497,33,"min hjerne siger stop men jeg kan ikke, forstår i hvad jeg mener? det er som om hænderne spiller selv",2026-04-14 04:32:00,gambling,False,True,high
-498,42,Sidder og hygger med et par free spins inden sengetid 😎,2026-04-14 04:34:00,normal,False,False,none
-499,15,hvad sker der egentlig med live casino? er det nede for nogen andre?,2026-04-14 04:36:00,normal,False,False,none
-500,52,"prøver lige at vinde det tilbage jeg tabte i går, så stopper jeg",2026-04-14 04:38:00,gambling,False,True,low
+87,1,"har lovet mig selv at stoppe men jackpotten er på 400.000 kr lige nu, det ville løse alle mine problemer",2026-04-13 14:52:00,gambling,False,True,medium
+88,14,god aften alle sammen 👋,2026-04-13 14:54:00,normal,False,False,none
+89,55,Nogen der har prøvet den nye slot med vikinger? Den er helt vild!,2026-04-13 14:56:00,both,True,True,medium
+90,29,Nogen der har prøvet Starburst? Er den værd at spille?,2026-04-13 14:58:00,normal,False,False,none
+91,23,har siddet her i 2 timer og ikke vundet en skid lol,2026-04-13 15:00:00,normal,False,False,none
+92,67,"live dealer bordene er så meget bedre end de normale, føles mere ægte",2026-04-13 15:02:00,normal,False,False,none
+93,60,I er alle sammen nogle skvat der ikke engang tør spille ordentlige stakes lmaooo,2026-04-13 15:04:00,hate_speech,True,False,medium
+94,7,ARGHHH tredje gang jeg rammer bust med 20 i hånden 😡,2026-04-13 15:06:00,hate_speech,True,False,low
+95,72,"support er faktisk ret hurtige her, fik svar inden for 5 min",2026-04-13 15:08:00,normal,False,False,none
+96,32,nogen der spiller mega moolah? den jackpot er kæmpe stor nu,2026-04-13 15:10:00,normal,False,False,none
+97,16,"hej alle sammen! første gang jeg er her, hvad spiller i mest?",2026-04-13 15:12:00,normal,False,False,none
+98,59,"Live roulette med den franske dealer er altid god underholdning, hun er sjov 😄",2026-04-13 15:14:00,both,True,True,medium
+99,18,har lånt penge af min bror og sagt det var til husleje... føler mig lidt dårlig men det er okay for jeg vinder dem tilbage i aften og betaler ham inden han finder ud af det,2026-04-13 15:16:00,gambling,False,True,high
+100,60,Er det bare mig eller er Book of Dead totalt død om mandagen,2026-04-13 15:18:00,normal,False,False,none
+101,68,"Ugh seriously, det er tredje gang serveren driller i dag. Kom nu",2026-04-13 15:20:00,hate_speech,True,False,low
+102,72,"har siddet her siden kl 9 i morges, er nede med næsten 8000 men jackpotten er ved at ramme jeg kan bare mærke det på spillene",2026-04-13 15:22:00,gambling,False,True,medium
+103,77,HA HA HA taber!!! gå hjem og græd til din mor din lille kryster,2026-04-13 15:24:00,hate_speech,True,False,medium
+104,41,har siddet her siden klokken 14 og er stadig ikke i plus. spiste ikke aftensmad for at have mere tid til at spille mig fri,2026-04-13 15:26:00,gambling,False,True,medium
+105,57,"mega fedt at der er live dealer, føles mere ægte",2026-04-13 15:28:00,normal,False,False,none
+106,79,"mine venner spørger hvorfor jeg aldrig har råd til at gå ud mere, jeg siger bare at jeg sparer op",2026-04-13 15:30:00,gambling,False,True,low
+107,65,"Udbetaling tog 2 dage sidst, håber det går hurtigere denne gang",2026-04-13 15:32:00,normal,False,False,none
+108,55,okay 3. gang jeg indsætter i dag. det her er den sidste gang jeg lover mig selv det. bare rolig. jeg vinder dem tilbage nu,2026-04-13 15:34:00,gambling,False,True,high
+109,71,Hvad er jeres favorit slot lige nu? Jeg er ret hooked på Dead or Alive 2,2026-04-13 15:36:00,normal,False,False,none
+110,58,"har spillet i 6 timer straight, rygggen er ødelagt men jackpotten kommer nok snart",2026-04-13 15:38:00,gambling,False,True,low
+111,21,"Pragmatic Play's Gates of Olympus er min favorit lige nu, vild volatilitet",2026-04-13 15:40:00,normal,False,False,none
+112,61,"jeg har lige tabt 15000 på 20 minutter... jeg forstår det ikke, jeg VED at jeg er heldig i dag, jeg kan mærke det. Kan I ikke give mig en bonus så jeg kan vinde det tilbage? Jeg SKAL have de penge tilbage inden min kone kommer hjem",2026-04-13 15:42:00,gambling,False,True,high
+113,58,"Crashed ud af bonus runden 1 spin før big win, vil græde 😭",2026-04-13 15:44:00,normal,False,False,none
+114,34,"blackjack bordet er altså lækkert her, dealer er hurtig",2026-04-13 15:46:00,normal,False,False,none
+115,32,"har spillet i 9 timer nu uden pause, er nede med 4000. begynder at blive lidt desperat ærlig talt",2026-04-13 15:48:00,gambling,False,True,medium
+116,36,"første gang jeg prøver casino og jeg er allerede hoppet på igen efter første tab, dette er fint og normalt",2026-04-13 15:50:00,edge_case,,,ambiguous
+117,67,Hvad er min bedste strategi mod dealeren? Jeg taber altid på 16,2026-04-13 15:52:00,both,True,True,medium
+118,63,"Prøv Gates of Olympus hvis i ikke har, den er faktisk ret fed",2026-04-13 15:54:00,normal,False,False,none
+119,31,"tip: sæt altid små beløb på de progressive jackpots, man ved aldrig 😉",2026-04-13 15:56:00,normal,False,False,none
+120,36,"kæft en fucking nørd, har du overhovedet venner eller sidder du bare her alene hele dagen??",2026-04-13 15:58:00,hate_speech,True,False,medium
+121,57,Hvornår opdaterer de bonushjulet? Venter siden i går,2026-04-13 16:00:00,normal,False,False,none
+122,10,"din fucking idiot, hold kæft og forsvind fra chatten",2026-04-13 16:02:00,hate_speech,True,False,high
+123,37,"brilliant ide at lave wagering krav på 40x, absolut spiller-venligt design, godt tænkt",2026-04-13 16:04:00,edge_case,,,ambiguous
+124,31,"Øv mand, troede da virkelig det her var min aften. Men nej selvfølgelig ikke 😒",2026-04-13 16:06:00,hate_speech,True,False,low
+125,35,"hold din kæft med de der tips din spastiker, ingen bad dig om noget",2026-04-13 16:08:00,hate_speech,True,False,medium
+126,43,"Fik lige en gevinst på 450 kr på Book of Dead, vildt!!",2026-04-13 16:10:00,both,True,True,medium
+127,41,"stop med at eksistere din uduelige stykke lort, alle hader dig",2026-04-13 16:12:00,hate_speech,True,False,high
+128,70,RTP på 96% lyder godt men i praksis mærker man det ikke altid 😄,2026-04-13 16:14:00,normal,False,False,none
+129,11,"Lige landet en x847 multiplikator på Gates of Olympus, WOOOW",2026-04-13 16:16:00,normal,False,False,none
+130,18,det er ikke normalt at tænke på casino hele dagen vel? eller gør i alle det,2026-04-13 16:18:00,gambling,False,True,low
+131,20,spiller mest for at koble af fra arbejdet men det gør mig egentlig mere stresset når jeg taber,2026-04-13 16:20:00,gambling,False,True,low
+132,30,"Fik lige 500 kr i bonus ved indbetaling, nice",2026-04-13 16:22:00,normal,False,False,none
+133,50,"Udbetaling tog kun 1 dag denne gang, fedt",2026-04-13 16:24:00,normal,False,False,none
+134,20,tabt 800 men vandt 850 så jeg er egentlig i plus hvis man ser det på den rigtige måde,2026-04-13 16:26:00,edge_case,,,ambiguous
+135,28,"fuck dig og fuck dette lort casino, håber du mister alt hvad du ejer din lille taber",2026-04-13 16:28:00,hate_speech,True,False,medium
+136,9,hvad spiller i andre?,2026-04-13 16:30:00,normal,False,False,none
+137,54,"din dumme ko, prøv at lær reglerne inden du spilder min tid",2026-04-13 16:32:00,hate_speech,True,False,medium
+138,53,det er jo ikke et problem jeg hygger mig bare... også selvom jeg taber,2026-04-13 16:34:00,gambling,False,True,low
+139,43,hjalp nogen med at finde et site uden indbetalingsgrænser? grænsen her ødelægger min strategi,2026-04-13 16:36:00,gambling,False,True,medium
+140,70,HAR NOGEN PRØVET at spille den her med autospin? den opfører sig helt anderledes!!,2026-04-13 16:38:00,edge_case,,,ambiguous
+141,60,"Har spillet i 3 timer og er 80 kr i plus, det tager jeg som en sejr haha",2026-04-13 16:40:00,normal,False,False,none
+142,54,"Godnat alle, trækker mig med et lille plus, kan man ikke klage over 😄",2026-04-13 16:42:00,both,True,True,medium
+143,8,"Hvornår plejer I at spille? Jeg synes altid gevinster er bedre om aftenen, placebo måske hehe",2026-04-13 16:44:00,normal,False,False,none
+144,27,"har siddet her i 2 timer og er næsten break even, tager det som en sejr lol",2026-04-13 16:46:00,normal,False,False,none
+145,54,Tip til nye spillere: Start altid med demo versionen inden du bruger rigtige penge,2026-04-13 16:48:00,normal,False,False,none
+146,50,Live roulette er bare så meget sjovere end den automatiske version,2026-04-13 16:50:00,normal,False,False,none
+147,75,"Ramte podium i turneringen!! 3. plads, tager jeg gerne",2026-04-13 16:52:00,both,True,True,medium
+148,3,jeg håber virkelig du mister alt og ender på gaden din skrald,2026-04-13 16:54:00,hate_speech,True,False,high
+149,74,"kælling, gå tilbage til køkkenet og lad os spille i fred",2026-04-13 16:56:00,hate_speech,True,False,high
+150,49,"MIN BEDSTE GEVINST NOGENSINDE, jeg er helt væk!!!",2026-04-13 16:58:00,edge_case,,,ambiguous
+151,62,"nå okay, det var åbenbart ikke min aften. for pokker",2026-04-13 17:00:00,hate_speech,True,False,low
+152,1,Nogen der kender en god strategi til baccarat? Har aldrig rigtig fattet det spil,2026-04-13 17:02:00,normal,False,False,none
+153,46,Bare vundet 2000 på Starburst!! 🎉🎉🎉,2026-04-13 17:04:00,both,True,True,medium
+154,39,"næste gang du logger ind, så pas på. vi ved hvem du er",2026-04-13 17:06:00,hate_speech,True,False,high
+155,50,lige lavet endnu et indskud. ved godt det er dumt men kan ikke stoppe nu når jeg er så tæt på at break even,2026-04-13 17:08:00,gambling,False,True,medium
+156,54,"taber og taber og taber, men altså... det er jo bare sjov",2026-04-13 17:10:00,edge_case,,,ambiguous
+157,69,"er bare sur, har tabt hvad der svarer til en halv måneds husleje på en uge",2026-04-13 17:12:00,gambling,False,True,low
+158,70,Nogen der kender en god strategi til pai gow poker?,2026-04-13 17:14:00,normal,False,False,none
+159,78,Mega frustrerende når man sidder og venter på bonus buy og der sker ingenting,2026-04-13 17:16:00,both,True,True,medium
+160,29,"Prøvede tilfældigt Gonzo's Quest og ramte 3000x, er det normalt??",2026-04-13 17:18:00,normal,False,False,none
+161,63,Haha jeg vandt 200 kr på roulette ved at sætte på sort hele vejen igennem,2026-04-13 17:20:00,normal,False,False,none
+162,29,hvad fanden laver du egentlig? er du fucking retarderet eller hvad?,2026-04-13 17:22:00,hate_speech,True,False,medium
+163,35,"håber virkelig du kører hjem og kører ind i et træ ikk, verden er bedre uden dig",2026-04-13 17:24:00,hate_speech,True,False,high
+164,56,"fucking autist, ingen vil have dig her, stik af",2026-04-13 17:26:00,hate_speech,True,False,high
+165,63,kan nogen fortælle mig hvordan man hæver sin indbetalingsgrænse? har brug for at spille mere i dag,2026-04-13 17:28:00,gambling,False,True,medium
+166,4,har siddet her siden i går aftes og stadig ikke ramt noget ordentligt...,2026-04-13 17:30:00,gambling,False,True,low
+167,50,"Tak for hyggen allesammen, lukker ned for i aften. GL til jer der fortsætter! 🍀",2026-04-13 17:32:00,normal,False,False,none
+168,44,"øv, tabte igen... det er sgu ikke sjovt mere",2026-04-13 17:34:00,hate_speech,True,False,low
+169,52,tænker på casino hele dagen på arbejde. kan ikke koncentrere mig om andet. bare venter på at komme hjem og spille,2026-04-13 17:36:00,gambling,False,True,high
+170,22,solgte min playstation i dag for at have råd til at spille. det er en investering ikke et problem. folk sælger jo aktier og sådan noget. det her er det samme bare hurtigere,2026-04-13 17:38:00,gambling,False,True,high
+171,60,"tip: sæt altid et budget inden du starter, det hjælper mig rigtig meget",2026-04-13 17:40:00,normal,False,False,none
+172,17,"det her er simpelthen noget lort, 5 gange i træk sort",2026-04-13 17:42:00,hate_speech,True,False,low
+173,80,Nogen der kender til et godt tidspunkt at spille slots? Hørte noget om at det er bedre om natten?,2026-04-13 17:44:00,both,True,True,medium
+174,69,"God aften folkens, hvad spiller I i aften?",2026-04-13 17:46:00,normal,False,False,none
+175,4,Mega fed dag! Ramte free spins 3 gange i træk på Book of Dead,2026-04-13 17:48:00,normal,False,False,none
+176,51,fed gevinst på Book of Dead lige nu 😄,2026-04-13 17:50:00,normal,False,False,none
+177,76,"dit liv er ingenting værd, gør verden en tjeneste og forsvind",2026-04-13 17:52:00,hate_speech,True,False,high
+178,73,"tabte 50kr og stoppede, det er min grænse for i dag. disciplin er vigtigt!",2026-04-13 17:54:00,normal,False,False,none
+179,4,jeg hader mig selv for det her men jeg kan stadig ikke stoppe. har prøvet så mange gange. ingen ved det,2026-04-13 17:56:00,gambling,False,True,high
+180,11,"okay én runde mere og så stopper jeg, det lover jeg mig selv haha",2026-04-13 17:58:00,edge_case,,,ambiguous
+181,55,"din klamme lille fyr, gå væk fra bordet og kom aldrig tilbage",2026-04-13 18:00:00,hate_speech,True,False,medium
+182,18,"book of dead er stadig min favorit, intet slår den klassiker",2026-04-13 18:02:00,normal,False,False,none
+183,60,"for søren da, lige nu hader jeg dette spil",2026-04-13 18:04:00,hate_speech,True,False,low
+184,24,"nå men det var så det, ses igen om 5 min hahaha",2026-04-13 18:06:00,edge_case,,,ambiguous
+185,7,"Tabte alt min bonus på 10 minutter, det var hurtigt gået 😂 nå, det var bare bonus penge",2026-04-13 18:08:00,both,True,True,medium
+186,34,Nogen der kender en god strategi til baccarat eller er det bare held?,2026-04-13 18:10:00,normal,False,False,none
+187,49,"tak for tips med slots typen, virkede faktisk!",2026-04-13 18:12:00,normal,False,False,none
+188,42,OMG OMG OMG lige ramt 500kr på gates!!! nu kører vi!!,2026-04-13 18:14:00,edge_case,,,ambiguous
+189,28,"fik min udbetaling på 2 dage, ret hurtigt 👍",2026-04-13 18:16:00,normal,False,False,none
+190,59,har nogen testet dead or alive 2? hørte det er ret sjov,2026-04-13 18:18:00,normal,False,False,none
+191,42,min kone tror jeg er ude med vennerne men jeg sidder her og forsøger at vinde vores husleje tilbage,2026-04-13 18:20:00,gambling,False,True,medium
+192,44,"vi ved dit rigtige navn. fortsæt bare, det går ikke godt for dig",2026-04-13 18:22:00,hate_speech,True,False,high
+193,49,jeg sover dårligt når jeg ikke har fået spillet lidt inden sengetid,2026-04-13 18:24:00,gambling,False,True,low
+194,36,"haha 5 kr gevinst på en 50 kr spin, tak skal du ha' 👍",2026-04-13 18:26:00,edge_case,,,ambiguous
+195,54,har de ikke Aviator her? kan ikke finde det i lobbyen,2026-04-13 18:28:00,normal,False,False,none
+196,33,jeg håber virkelig du mister din lejlighed over det her din spilafhængige idiot,2026-04-13 18:30:00,hate_speech,True,False,medium
+197,11,"Lige taget en pause og spist aftensmad, nu er jeg klar igen haha",2026-04-13 18:32:00,normal,False,False,none
+198,61,Tillykke til @mikkel83 med gevinsten! Fortjent fyr 👏,2026-04-13 18:34:00,normal,False,False,none
+199,3,"volatilitet er vigtig at forstå når man vælger slot, high vol = sjældnere men større gevinster",2026-04-13 18:36:00,normal,False,False,none
+200,70,Hvad pokker er der sket med min favorit slot? Den er forsvundet fra siden???,2026-04-13 18:38:00,both,True,True,medium
+201,7,"din mor burde have smidt dig ud, seriøst det er pinligt at se på dig spille din jævla noob",2026-04-13 18:40:00,hate_speech,True,False,medium
+202,45,"jeg håber virkelig dit liv er ligeså elendigt som dit spil, taber",2026-04-13 18:42:00,hate_speech,True,False,medium
+203,29,nogen der kender et sted hvor man kan få et hurtigt lån? banken vil ikke mere,2026-04-13 18:44:00,gambling,False,True,high
+204,9,"YESSS endelig en gevinst efter 3 uger, nu gælder det om ikke at sætte det hele ind med det samme... eller?",2026-04-13 18:46:00,edge_case,,,ambiguous
+205,6,"Jeg er sgu træt af det her lort, bonus runden kom aldrig",2026-04-13 18:48:00,hate_speech,True,False,low
+206,4,"min udbetalingsanmodning er kun 5 dage gammel, ingen panik endnu, hahaha jo lidt",2026-04-13 18:50:00,edge_case,,,ambiguous
+207,32,"tabte 300 kr og stopper for i dag, skal huske det er for sjov skyld",2026-04-13 18:52:00,normal,False,False,none
+208,26,Live casino dealerne er altid så søde herovre tbh,2026-04-13 18:54:00,normal,False,False,none
+209,3,"jamen for helvede, nu frøs siden igen midt i en runde",2026-04-13 18:56:00,hate_speech,True,False,low
+210,80,"synes mobilversionen virker lidt langsom i dag, er det bare mig?",2026-04-13 18:58:00,normal,False,False,none
+211,20,nogen der kender et godt lån sted? har brugt huslejen og bliver nødt til at vinde den hjem inden d. 1,2026-04-13 19:00:00,gambling,False,True,medium
+212,31,tabt løn for hele måneden på 4 timer. sidder og ryster. ved ikke hvad jeg gør,2026-04-13 19:02:00,gambling,False,True,high
+213,17,Mega strike på Dead or Alive 2!!! Screenshottede det hele haha,2026-04-13 19:04:00,both,True,True,medium
+214,61,"jeg finder dig nok engang din lille taber, tro mig",2026-04-13 19:06:00,hate_speech,True,False,high
+215,15,"okay sidder her kl 3 og tænker måske en enkelt til inden sengetid, igen",2026-04-13 19:08:00,edge_case,,,ambiguous
+216,73,solgte min playstation for at have penge til at spille. fortalte min kæreste den var stjålet,2026-04-13 19:10:00,gambling,False,True,high
+217,28,"du er det dummeste menneske jeg nogensinde har set i et casino, og det siger ikke lidt",2026-04-13 19:12:00,hate_speech,True,False,medium
+218,60,Har spillet her i 2 år og synes supporten altid er hurtig og hjælpsom 👍,2026-04-13 19:14:00,both,True,True,medium
+219,33,"Sidder og spiller lidt rulle mens jeg ser fodbold, den perfekte aften 🍺",2026-04-13 19:16:00,both,True,True,medium
+220,48,Lige ramt 500kr gevinst på Book of Dead!!! 🎉🎉,2026-04-13 19:18:00,normal,False,False,none
+221,22,sgu irriterende når man er så tæt på og så smutter det,2026-04-13 19:20:00,hate_speech,True,False,low
+222,78,"okay den her slot skylder mig SÅ meget lige nu, det er ikke til at forstå",2026-04-13 19:22:00,edge_case,,,ambiguous
+223,78,"tabte 50 kr men det er okay, har det sjovt",2026-04-13 19:24:00,normal,False,False,none
+224,15,ok sidst indskud jeg lover. bare 1000 til så stopper jeg når jeg har vundet mine penge hjem igen,2026-04-13 19:26:00,gambling,False,True,medium
+225,21,nogen der har prøvet den nye slot de lagde op i fredags? den med vikingerne,2026-04-13 19:28:00,normal,False,False,none
+226,40,"okay det her er sgu for sygt, tredje gang i træk boten stopper lige inden scatter, tilfældigt ja ja",2026-04-13 19:30:00,edge_case,,,ambiguous
+227,14,"Hej alle sammen! Første gang jeg prøver dette casino, ser ret fedt ud 😄",2026-04-13 19:32:00,normal,False,False,none
+228,75,er der andre her der spiller hver eneste aften eller er det kun mig lol,2026-04-13 19:34:00,gambling,False,True,low
+229,4,Bigwin!! 340 kr på 2 kr spin på Gonzo!! 🙌🙌,2026-04-13 19:36:00,normal,False,False,none
+230,40,"HAHA ja selvfølgelig taber jeg igen, det er jo SÅ fedt 🙄",2026-04-13 19:38:00,edge_case,,,ambiguous
+231,74,"ja tak for den der bonus, virkelig fedt at den udløb inden jeg nåede at bruge den 😂",2026-04-13 19:40:00,edge_case,,,ambiguous
+232,49,Hejhej! Nogen der spiller på fodbold VM kampene i dag?,2026-04-13 19:42:00,both,True,True,medium
+233,51,"det er bare bøjet, har spillet i en time og ingenting",2026-04-13 19:44:00,hate_speech,True,False,low
+234,26,Kan man ikke få free spins på Gonzo's Quest? Plejer de ikke at give det som velkomstbonus?,2026-04-13 19:46:00,both,True,True,medium
+235,10,"husk at sætte jeres daglige grænse folk, det er vigtigt",2026-04-13 19:48:00,normal,False,False,none
+236,76,okay sidste indsats. det er den SIDSTE gang. 500 kr mere så stopper jeg,2026-04-13 19:50:00,gambling,False,True,high
+237,32,live roulette dealer er virkelig sød i aften hehe,2026-04-13 19:52:00,normal,False,False,none
+238,14,nååå hvor er det dejligt at se sine penge forsvinde i slowmotion,2026-04-13 19:54:00,edge_case,,,ambiguous
+239,39,Er der nogen som helst der har prøvet at vinde på progressiv jackpot? Virker urealistisk,2026-04-13 19:56:00,normal,False,False,none
+240,77,"din fucking newbie, lær at spille inden du åbner munden",2026-04-13 19:58:00,hate_speech,True,False,medium
+241,16,Nogen der har prøvet den nye slot der kom i fredags? Den med vikingerne,2026-04-13 20:00:00,both,True,True,medium
+242,73,"500 gratisspins på Jammin Jars, lad os se hvad det bliver til!",2026-04-13 20:02:00,normal,False,False,none
+243,6,fik 847 kr i gevinst på roulette lige nu 🎉🎉,2026-04-13 20:04:00,normal,False,False,none
+244,45,det er sgu da noget pis med de her odds,2026-04-13 20:06:00,hate_speech,True,False,low
+245,69,fedt at du taber dine børns mad din elendige junkie,2026-04-13 20:08:00,hate_speech,True,False,medium
+246,55,"for helvede da, endnu et tab på rouletten 😤",2026-04-13 20:10:00,hate_speech,True,False,low
+247,48,Min kone tror jeg er på arbejde men jeg sidder og spiller slots 😂😂,2026-04-13 20:12:00,normal,False,False,none
+248,9,"nå men så prøver vi lige en gang til, pengene er jo ikke væk de er bare et andet sted",2026-04-13 20:14:00,edge_case,,,ambiguous
+249,65,"Ugh min internet droppede midt i en bonus runde, håber den er gemt 😬",2026-04-13 20:16:00,normal,False,False,none
+250,44,"Fik 15 free spins uden indbetaling som velkomstbonus, fedt!",2026-04-13 20:18:00,normal,False,False,none
+251,2,"Hva fanden mand, tredje gang i træk jeg taber på den her slotmaskine 😤",2026-04-13 20:20:00,hate_speech,True,False,low
+252,54,Husk nu at sætte jeres session grænser folk! Gambling skal være sjovt 🙂,2026-04-13 20:22:00,both,True,True,medium
+253,63,kan man stole på at RNG'en er ægte her eller er det ligesom de andre steder,2026-04-13 20:24:00,edge_case,,,ambiguous
+254,14,hvad er jeres bedste casino hack? spørger til en præsentation jeg laver om gambling,2026-04-13 20:26:00,edge_case,,,ambiguous
+255,56,okay men seriøst det her spil hader mig personligt,2026-04-13 20:28:00,edge_case,,,ambiguous
+256,47,"bonus'en her er ret god synes jeg, 200 free spins var nice",2026-04-13 20:30:00,normal,False,False,none
+257,59,din mor burde ha smidt dig ud med skraldet da du blev født din usle stykke lort,2026-04-13 20:32:00,hate_speech,True,False,high
+258,20,"Tabte 200 men det er okay, det var underholdning pengene er værd",2026-04-13 20:34:00,both,True,True,medium
+259,56,hvad foretrækker i: slots eller bordspil? jeg er klart slots-pige,2026-04-13 20:36:00,normal,False,False,none
+260,23,"HAHAHA se eneren her tror han er god, kryb tilbage under din sten din patetiske idiot",2026-04-13 20:38:00,hate_speech,True,False,medium
+261,67,"Spiller kun live casino nu, slots giver mig for meget angst for mit hjerte 😄",2026-04-13 20:40:00,normal,False,False,none
+262,35,"bonuspengene er væk, mine egne penge er væk, hvad gør jeg nu. jeg er desperate",2026-04-13 20:42:00,gambling,False,True,high
+263,79,Har nogen prøvet live dealer roulette her? Er dealerne søde?,2026-04-13 20:44:00,normal,False,False,none
+264,69,"jeg ved hvor du bor din lille lort, pas på dig selv",2026-04-13 20:46:00,hate_speech,True,False,high
+265,62,"Blackjack bordet er fuldt igen, hate det når det sker i weekenden",2026-04-13 20:48:00,normal,False,False,none
+266,60,"Hejsa alle sammen! Første gang jeg er inde på denne her platform, håber det er hyggeligt 😊",2026-04-13 20:50:00,both,True,True,medium
+267,56,"YESSS endelig! tilbage på det jeg startede med, det kalder jeg en sejr",2026-04-13 20:52:00,edge_case,,,ambiguous
+268,76,dette er jo ren svindel!!! har tabt 6000 kr og ingen af mine spins rammer. sætter 1000 mere ind for at bevise det er rigged,2026-04-13 20:54:00,gambling,False,True,medium
+269,35,min datter fylder 5 om en uge og jeg har ikke råd til at købe en gave. hvordan skete det her,2026-04-13 20:56:00,gambling,False,True,high
+270,42,Er der nogen der ved om de har MobilePay til udbetaling?,2026-04-13 20:58:00,normal,False,False,none
+271,32,"Hej alle sammen, første gang jeg er i chatten, plejer bare at spille alene 😊",2026-04-13 21:00:00,normal,False,False,none
+272,12,har slet ikke råd til det her men sætter alligevel 1000 ind mere. det er mine penge og jeg bestemmer selv,2026-04-13 21:02:00,gambling,False,True,medium
+273,36,nogen tips til hvilke slots der har høj RTP? vil gerne spille smartere,2026-04-13 21:04:00,normal,False,False,none
+274,58,"min kæreste tror jeg er på arbejde lol. er 6000 i minus men jeg stopper ikke før jeg har fået dem hjem igen, har gjort det før",2026-04-13 21:06:00,gambling,False,True,medium
+275,32,Er supporten hurtige her? Har ventet på svar i en time,2026-04-13 21:08:00,normal,False,False,none
+276,60,Kan i ikke bare fikse den her fejl?? Det gi'r mig røven,2026-04-13 21:10:00,hate_speech,True,False,low
+277,73,"dumme ko, prøv at lær reglerne inden du sidder og spilder vores tid ved bordet",2026-04-13 21:12:00,hate_speech,True,False,medium
+278,79,"for pokker da, det var min sidste chance og den røg også",2026-04-13 21:14:00,hate_speech,True,False,low
+279,49,skulle egentlig lave mad men sidder stadig her... maden kan vente,2026-04-13 21:16:00,gambling,False,True,low
+280,44,venner tror jeg er holdt op med at spille. det er jeg ikke. har bare brug for at vinde det tab tilbage jeg lavede i julen,2026-04-13 21:18:00,gambling,False,True,medium
+281,4,"Sidder og spiller med 50 øre indsats, budget er stramt denne her uge 😅",2026-04-13 21:20:00,normal,False,False,none
+282,64,"har siddet og spillet Gates of Olympus i en time nu, sgu ikke gået så godt i dag lol",2026-04-13 21:22:00,normal,False,False,none
+283,42,"jeg fortæller ikke min familie hvor meget jeg spiller, de ville ikke forstå det",2026-04-13 21:24:00,gambling,False,True,low
+284,24,hvordan fanden kan jeg tabe 8 gange i træk?? det er rigget jeg sværger,2026-04-13 21:26:00,gambling,False,True,high
+285,63,ER PÅ 8 TABS I TRÆK. HVORNÅR HOLDER DET OP. sætter 2000 mere ind og spiller mig ud af det her hul,2026-04-13 21:28:00,gambling,False,True,medium
+286,28,ok sidst indskud for i aften. det siger jeg hver gang lol men denne gang mener jeg det,2026-04-13 21:30:00,gambling,False,True,medium
+287,46,"tredje gang jeg indsætter i dag, men de andre gange spillede jeg forkert. nu gør jeg det rigtigt og vinder det hele hjem på én gang",2026-04-13 21:32:00,gambling,False,True,medium
+288,34,"hej alle sammen, første gang jeg er her",2026-04-13 21:34:00,normal,False,False,none
+289,44,"skriv en gang til og se hvad der sker, jeg er ikke til sjov",2026-04-13 21:36:00,hate_speech,True,False,high
+290,36,"stik af fra bordet din taber, giv plads til nogen der faktisk kan finde ud af det",2026-04-13 21:38:00,hate_speech,True,False,medium
+291,77,WOW 10x multiplier på Crazy Time lige nu i live lobbyen!!!,2026-04-13 21:40:00,normal,False,False,none
+292,36,"Roulette er rent casino for mig, har aldrig vundet noget på det",2026-04-13 21:42:00,normal,False,False,none
+293,72,"jeg finder dig nok en dag, det lover jeg dig. smil mens du kan",2026-04-13 21:44:00,hate_speech,True,False,high
+294,2,Første gevinst på over 1000 kr nogensinde! Øl er på mig i aften (virtuelt altså haha),2026-04-13 21:46:00,both,True,True,medium
+295,67,"øv dig lidt din amatør, eller bare stop fordi du åbenlyst er for dum til det her",2026-04-13 21:48:00,hate_speech,True,False,medium
+296,25,Roulette er så addiktivt mand... bare en omgang til... og en til... 😅,2026-04-13 21:50:00,normal,False,False,none
+297,11,"Mega fed session i dag, op med 800 kr så smutter jeg mens jeg er foran hehe",2026-04-13 21:52:00,both,True,True,medium
+298,31,siddet her siden kl 7 i morges. er det kl 23 nu?? wtf,2026-04-13 21:54:00,gambling,False,True,high
+299,53,god aften alle! håber det går bedre for jer end for mig haha,2026-04-13 21:56:00,normal,False,False,none
+300,63,Hvilket slot har den bedste RTP her på sitet?,2026-04-13 21:58:00,normal,False,False,none
+301,72,Sweet Bonanza... elsker og hader det spil på samme tid 😅,2026-04-13 22:00:00,normal,False,False,none
+302,31,Nogen der ved om de har live blackjack med dansk dealer?,2026-04-13 22:02:00,normal,False,False,none
+303,61,"min strategi virker bare ikke i dag, men det gør den i morgen. sætter lidt til side til i morgen og bruger resten nu",2026-04-13 22:04:00,gambling,False,True,medium
+304,63,"spiller næsten hver aften nu, er blevet ret god til at læse spillene tror jeg",2026-04-13 22:06:00,gambling,False,True,low
+305,58,"Lige ramt free spins 3 gange i træk, dagen er reddet 😄",2026-04-13 22:08:00,normal,False,False,none
+306,3,haha hvem er den her fucking taber? nogen der kender ham?,2026-04-13 22:10:00,hate_speech,True,False,medium
+307,12,"Support er faktisk ret hurtige her, fik svar inden for 5 min",2026-04-13 22:12:00,normal,False,False,none
+308,38,okay jeg satte en grænse på 500 men den er nået... overvejer bare at sætte den lidt op,2026-04-13 22:14:00,gambling,False,True,low
+309,29,"Hej alle sammen! Første gang jeg prøver dette casino, ser ret fedt ud",2026-04-13 22:16:00,normal,False,False,none
+310,52,luder. simpelthen bare en billig luder der ikke kan spille,2026-04-13 22:18:00,hate_speech,True,False,high
+311,32,du er et skvat menneske og din familie skammer sig over dig,2026-04-13 22:20:00,hate_speech,True,False,high
+312,40,er der nogen der ved hvornår der kommer nye slots?,2026-04-13 22:22:00,normal,False,False,none
+313,75,nogen der ved om de tilbyder cashback her? kan ikke finde det i bonusvilkårene,2026-04-13 22:24:00,normal,False,False,none
+314,48,okay sidste chance. 500 kr tilbage. hvis det ryger så stopper jeg. for alvor denne gang,2026-04-13 22:26:00,gambling,False,True,medium
+315,61,altså gevinsten er slet ikke til at hoste på men jeg er glad nok,2026-04-13 22:28:00,edge_case,,,ambiguous
+316,71,okay min kortgrænse er nået. ved nogen om man kan bruge mobilepay eller overføre fra sin opsparing direkte? skal bare bruge 2000 mere så har jeg nok til at vinde det hele tilbage garanteret,2026-04-13 22:30:00,gambling,False,True,high
+317,68,"konen tror jeg arbejder over, men jeg sidder her lol",2026-04-13 22:32:00,gambling,False,True,low
+318,45,"Haha fik lige 50 kr tilbage på en bonus buy, det var sgu ikke pengene værd",2026-04-13 22:34:00,normal,False,False,none
+319,55,"gg til alle vinder i dag, jeg er på minus men det vender nok 😅",2026-04-13 22:36:00,normal,False,False,none
+320,71,din fucking idiot du anmelder mig for hvad??? hold kæft mand,2026-04-13 22:38:00,hate_speech,True,False,medium
+321,43,hvor lang tid tager en udbetaling normalt herfra?,2026-04-13 22:40:00,normal,False,False,none
+322,46,"seriøst din handicappede idiot, er det meningen du skal spille kort??",2026-04-13 22:42:00,hate_speech,True,False,medium
+323,59,"Ugh, 3. gang i træk jeg rammer 0 på rouletten... universet hader mig",2026-04-13 22:44:00,both,True,True,medium
+324,35,Nogen der har prøvet den nye slot med vikinger? Den ser syg ud,2026-04-13 22:46:00,normal,False,False,none
+325,40,altså jeg synes faktisk det er hyggeligt at sidde her selvom det ikke går vildt,2026-04-13 22:48:00,edge_case,,,ambiguous
+326,33,blackjack er klart det bedste spil her synes jeg,2026-04-13 22:50:00,normal,False,False,none
+327,30,"gider ikke mere i aften, det er for åndssvagt",2026-04-13 22:52:00,hate_speech,True,False,low
+328,16,"Hej, ved nogen om der er free spins i dag?",2026-04-13 22:54:00,both,True,True,medium
+329,25,"support sagde mit problem ville blive løst inden 24 timer, det var for 6 dage siden, 10/10",2026-04-13 22:56:00,edge_case,,,ambiguous
+330,41,"okay jeg er faktisk lidt ligeglad med at jeg tabte, det var en fed runde alligevel lol",2026-04-13 22:58:00,edge_case,,,ambiguous
+331,16,"min kone tror jeg er på arbejde lol, men altså det er jo bare for sjov",2026-04-13 23:00:00,gambling,False,True,low
+332,69,"gg alle sammen, smutter til aftensmad og prøver lykken igen senere",2026-04-13 23:02:00,both,True,True,medium
+333,24,Er der nogen her der kan forklare mig hvordan scatter fungerer? Er lidt ny,2026-04-13 23:04:00,both,True,True,medium
+334,25,"Haha tabt 50 kr på 2 min, classic",2026-04-13 23:06:00,normal,False,False,none
+335,28,Tips til roulette? Spiller altid på sort men det virker ikke lol,2026-04-13 23:08:00,normal,False,False,none
+336,62,hold din beskidte mund eller jeg sørger for at du fortryder det,2026-04-13 23:10:00,hate_speech,True,False,high
+337,36,Hvad er det bedste slot spil lige nu? Er lidt træt af de samme gamle,2026-04-13 23:12:00,normal,False,False,none
+338,76,håber du får kræft og dør langsomt din svin,2026-04-13 23:14:00,hate_speech,True,False,high
+339,68,"seriøst hold din kæft og spil, ingen gider høre på dit lort",2026-04-13 23:16:00,hate_speech,True,False,medium
+340,77,Hvad er jeres bedste tips til roulette? Spiller mest på rødt/sort men taber konsekvent 😅,2026-04-13 23:18:00,both,True,True,medium
+341,37,"mega fedt at de har dansk kundeservice, slipper for at stave mig igennem på engelsk",2026-04-13 23:20:00,normal,False,False,none
+342,13,"tabte lidt i dag men hyggelig aften alligevel, ses igen i weekenden folkens",2026-04-13 23:22:00,normal,False,False,none
+343,25,Mega Moolah er åbenbart oppe på 15 millioner nu wtf,2026-04-13 23:24:00,normal,False,False,none
+344,38,min kæreste er sur fordi jeg har siddet oppe til kl 3 igen men jeg kan ikke stoppe når jeg er tæt på,2026-04-13 23:26:00,gambling,False,True,low
+345,30,"min kone tror jeg ser netflix, lol, anyway nogen der kender en god strategi til roulette?",2026-04-13 23:28:00,edge_case,,,ambiguous
+346,47,NEJ NEJ NEJ kom nu... åh nej den missede igen,2026-04-13 23:30:00,edge_case,,,ambiguous
+347,23,"Book of Dead er stadig den bedste slot nogensinde, fight me",2026-04-13 23:32:00,both,True,True,medium
+348,39,nogen der har prøvet den nye slot de har lagt op?,2026-04-13 23:34:00,normal,False,False,none
+349,2,Kan man stole på RTP tallene her eller er de bare noget de finder på?,2026-04-13 23:36:00,normal,False,False,none
+350,69,"God session i dag, op 800 kr, tager det og stikker af 😂",2026-04-13 23:38:00,normal,False,False,none
+351,17,"Fik min udbetaling på 2 dage, ret hurtigt faktisk 👍",2026-04-13 23:40:00,normal,False,False,none
+352,36,"kæft en bondemåde at spille på, du er simpelthen for meget mand",2026-04-13 23:42:00,hate_speech,True,False,medium
+353,6,"hahaha taberen her har mistet 500kr på 5 min, klassisk nørd der ikke fatter en skid om poker",2026-04-13 23:44:00,hate_speech,True,False,medium
+354,7,Free spins er landet! Krydser fingre for noget fedt nu,2026-04-13 23:46:00,normal,False,False,none
+355,71,prøvede at sætte en grænse på mit konto men fjernede den igen efter 10 min. spærretiden hjalp heller ikke,2026-04-13 23:48:00,gambling,False,True,high
+356,38,"Lige hjemtaget 500 kr på blackjack, dagen er reddet 😂",2026-04-13 23:50:00,both,True,True,medium
+357,17,"hvad fanden er det for noget, rig jeg lige er tæt på bonus og så ingenting",2026-04-13 23:52:00,hate_speech,True,False,low
+358,63,sig det en gang til og jeg sværger jeg slår tænderne ud af munden på dig når jeg finder dig,2026-04-13 23:54:00,hate_speech,True,False,high
+359,14,"lidt træt af at tabe ærlig talt, men sådan er det vel",2026-04-13 23:56:00,hate_speech,True,False,low
+360,2,"folk som dig fortjener at miste ALT, familie, penge, hjem. håber du råder",2026-04-13 23:58:00,hate_speech,True,False,high
+361,74,"Udbetaling gik igennem på under 2 timer, det er jeg imponeret over 👍",2026-04-14 00:00:00,normal,False,False,none
+362,37,"hold din kæft din fede gris, ingen gider høre på dig",2026-04-14 00:02:00,hate_speech,True,False,high
+363,61,"okay NU kører vi, følelsen er tilbage, det her bliver aftenen 🔥",2026-04-14 00:04:00,edge_case,,,ambiguous
+364,62,"Starburst er bare et klassiker, kan ikke stoppe med at spille den lol",2026-04-14 00:06:00,normal,False,False,none
+365,57,"nice at der ikke er noget loft på indsats, giver virkelig friheden til at spille ansvarligt",2026-04-14 00:08:00,edge_case,,,ambiguous
+366,44,Hej med jer! Hvad kører i på i dag?,2026-04-14 00:10:00,both,True,True,medium
+367,24,"Lige taget en pause og drukket kaffe, klar til anden runde 💪",2026-04-14 00:12:00,normal,False,False,none
+368,7,"hold kæft hvor er du fucking dum mand, du burde ikke engang have lov til at spille",2026-04-14 00:14:00,hate_speech,True,False,medium
+369,33,"har tabt ca 800 kr i dag men det plejer at vende sig, bare et spørgsmål om tålmodighed",2026-04-14 00:16:00,gambling,False,True,low
+370,62,hold kæft det er frustrerende når kortene bare ikke vil,2026-04-14 00:18:00,hate_speech,True,False,low
+371,15,"HAHAHAHA se engang den her klodrian miste sine penge igen, klassisk!!!",2026-04-14 00:20:00,hate_speech,True,False,medium
+372,9,"hvad fanden sker der, har mistet alt hvad jeg satte ind i dag. sætter bare lidt mere ind og så stopper jeg når jeg har vundet det tilbage",2026-04-14 00:22:00,gambling,False,True,medium
+373,52,har skjult det for min familie i 8 måneder. ingen ved hvor mange penge jeg har tabt. tror det er over 60.000,2026-04-14 00:24:00,gambling,False,True,high
+374,63,har ringet syg på arbejde 3 gange denne måned fordi jeg ikke kunne stoppe med at spille om natten,2026-04-14 00:26:00,gambling,False,True,high
+375,10,"jeg har tabt 15000 kr de sidste 3 dage, jeg ved ikke hvad jeg skal gøre, min kone må ikke finde ud af det",2026-04-14 00:28:00,gambling,False,True,high
+376,74,håber din konto bliver hacket og du mister alt din lille flink fyr,2026-04-14 00:30:00,hate_speech,True,False,high
+377,7,omg jeg troede jeg havde ramt jackpotten men det var bare 50 kr 😂,2026-04-14 00:32:00,normal,False,False,none
+378,20,god morgen alle! håber i får en heldig dag ved bordene,2026-04-14 00:34:00,normal,False,False,none
+379,20,"Argh, 3 gange i træk har bonden ødelagt min bonus runde, det er SÅ frustrerende",2026-04-14 00:36:00,normal,False,False,none
+380,73,"argh kan ikke tro det, mistede hele min stack på et minut",2026-04-14 00:38:00,hate_speech,True,False,low
+381,39,"Roulette er og bliver kongen, slots er for dem der vil have det gjort hurtigt",2026-04-14 00:40:00,normal,False,False,none
+382,11,"bare rolig jeg har styr på det, jeg taber aldrig mere end jeg har råd til... de fleste gange",2026-04-14 00:42:00,edge_case,,,ambiguous
+383,32,hej med dig Klaus! ser du stadig er her hver aften 😄,2026-04-14 00:44:00,normal,False,False,none
+384,16,spillede i 2 timer og er nede med 200 lol... sådan er det jo,2026-04-14 00:46:00,normal,False,False,none
+385,72,"Min kæreste tror jeg ser fodbold, men jeg sidder altså her haha",2026-04-14 00:48:00,normal,False,False,none
+386,54,min bonus er slut og jeg har ikke vundet noget. sætter rigtige penge ind nu for at vinde det tilbage der er fair,2026-04-14 00:50:00,gambling,False,True,medium
+387,78,så er det vist tid til at hente de tabte penge hjem på en anden slot 🤔,2026-04-14 00:52:00,edge_case,,,ambiguous
+388,77,"jeg doxxer dig hvis du ikke lukker røven, prøv mig",2026-04-14 00:54:00,hate_speech,True,False,high
+389,80,okay tabte min løn. ikke hele den men det meste. det er fint jeg har opsparing. den bruger jeg ikke. måske,2026-04-14 00:56:00,gambling,False,True,medium
+390,29,hvem andre spiller for at slappe af? jeg synes det er mega hyggeligt og afslappende uanset om jeg taber,2026-04-14 00:58:00,edge_case,,,ambiguous
+391,67,"Mega Moolah jackpot er over 5 millioner nu, det er fristende 👀",2026-04-14 01:00:00,normal,False,False,none
+392,49,"hvem har designet det her spil, en blind mand??",2026-04-14 01:02:00,edge_case,,,ambiguous
+393,58,"luder unge, håber du taber alt hvad du har",2026-04-14 01:04:00,hate_speech,True,False,medium
+394,57,"Starburst er sgu stadig den bedste slot nogensinde, fight me",2026-04-14 01:06:00,both,True,True,medium
+395,39,"har prøvet det samme slot 6 timer nu og den har ikke ramt en gang, den skylder mig",2026-04-14 01:08:00,edge_case,,,ambiguous
+396,76,"Jeg sætter altid en grænse for mig selv, ellers ryger pengene alt for hurtigt",2026-04-14 01:10:00,both,True,True,medium
+397,55,"din fucking mongo, kan du ikke læse reglerne eller er du for dum",2026-04-14 01:12:00,hate_speech,True,False,high
+398,40,nogen der kender en god strategi til baccarat?,2026-04-14 01:14:00,normal,False,False,none
+399,73,Lige landet en x187 multiplikator 😱😱😱 tror ikke mine øjne,2026-04-14 01:16:00,both,True,True,medium
+400,80,"det er mærkeligt, jo mere jeg taber jo mere har jeg lyst til at fortsætte for at vinde det tilbage",2026-04-14 01:18:00,gambling,False,True,low
+401,8,"Fik 3x wild i træk på Gonzo's Quest, troede ikke mine øjne 😂",2026-04-14 01:20:00,normal,False,False,none
+402,79,"øv, der røg lønchecken lidt hurtigere end planlagt denne måned... nåja",2026-04-14 01:22:00,gambling,False,True,low
+403,13,"sagde til mig selv max 500 kr i dag. har nu sat 3200 ind. men jeg er tæt på, kan bare mærke det",2026-04-14 01:24:00,gambling,False,True,medium
+404,27,"jaja det var da en hyggelig aften, kun tabt hvad jeg havde sat af, 10/10",2026-04-14 01:26:00,edge_case,,,ambiguous
+405,28,Nogen der ved om de har live casino med dansk dealer i aften?,2026-04-14 01:28:00,normal,False,False,none
+406,34,nogen der ved om man kan låne penge via mobilepay og så betale tilbage når man vinder? spørger for en ven,2026-04-14 01:30:00,gambling,False,True,medium
+407,11,hvad er jeres bedste strategi på blackjack? splitter i altid 8'ere?,2026-04-14 01:32:00,normal,False,False,none
+408,21,JACKPOT!! nej ikke rigtig men jeg vandt 200 kr så det er noget 😂,2026-04-14 01:34:00,normal,False,False,none
+409,31,"pragmatic play laver virkelig gode slots, lightning roulette er også sjov",2026-04-14 01:36:00,normal,False,False,none
+410,23,"lige ramt bonusrunden på Starburst, fingre krydsede 🤞",2026-04-14 01:38:00,normal,False,False,none
+411,71,er der nogen der ved hvornår de nye kampagner kommer? plejer det ikke at være om fredagen,2026-04-14 01:40:00,normal,False,False,none
+412,10,har siddet her siden kl 14 og det er snart midnat... tid flyver når man hygger sig haha,2026-04-14 01:42:00,gambling,False,True,low
+413,21,"Jamen helvede til, nu røg forbindelsen igen mens jeg var midt i en runde",2026-04-14 01:44:00,hate_speech,True,False,low
+414,1,jamen selvfølgelig stopper bonussen præcis der... klassisk,2026-04-14 01:46:00,edge_case,,,ambiguous
+415,53,"Prøvede poker for første gang, fik tæsk men lærte en del haha",2026-04-14 01:48:00,both,True,True,medium
+416,58,"Lige smadret en bonus på Starburst, 200kr ind og 1400 ud haha",2026-04-14 01:50:00,normal,False,False,none
+417,77,"support er virkelig hurtige her, ventede kun 45 minutter på svar, topklasse service altså",2026-04-14 01:52:00,edge_case,,,ambiguous
+418,61,Sweet Bonanza er ren hjertemedicin når den starter bonusrunden 😍,2026-04-14 01:54:00,both,True,True,medium
+419,38,"Sweet Bonanza er mit guilty pleasure, den er så farverig og sjov 🍭",2026-04-14 01:56:00,normal,False,False,none
+420,5,HVORFOR GØR SLOTS DET HER??? jeg var SÅ TÆT PÅ jackpotten 4 gange i træk det er umuligt at det bare er tilfældigt de snyder mig med vilje. Indsætter igen og beviser det,2026-04-14 01:58:00,gambling,False,True,high
+421,30,"ramte bonus runden på Big Bass Bonanza 4 gange i træk, vanvittigt!!",2026-04-14 02:00:00,normal,False,False,none
+422,37,har sat 5000 ind i dag og er nede på 200 kr. nogen der ved om der er et trick til at vinde på roulette?,2026-04-14 02:02:00,gambling,False,True,medium
+423,37,"Åhhh kom nu scatter, jeg har ventet i 40 spin nu 😩",2026-04-14 02:04:00,normal,False,False,none
+424,59,Jeg prøver altid at spille for sjov lidt først inden jeg satser rigtige penge,2026-04-14 02:06:00,normal,False,False,none
+425,10,HVAD FANDEN. mistet hele min løn på 2 timer. sætter bare 500 mere ind så vinder jeg dem tilbage det plejer at virke,2026-04-14 02:08:00,gambling,False,True,medium
+426,30,"haha min kone tror jeg ser tv, men jeg sidder her og spiller 😅",2026-04-14 02:10:00,normal,False,False,none
+427,34,LUUK DIG VÆCK FRA BORDENE DIN SPASTIKER INGEN VIL HA DIG HER,2026-04-14 02:12:00,hate_speech,True,False,high
+428,76,"mega irriterende når free spins giver nul, sket tre gange i træk nu",2026-04-14 02:14:00,normal,False,False,none
+429,26,hvornår har man egentlig spillet for meget? spørger for en ven 😅,2026-04-14 02:16:00,gambling,False,True,low
+430,55,har lånt 1000 af min bror til mad men brugte dem her... han ved det ikke,2026-04-14 02:18:00,gambling,False,True,low
+431,15,God aften alle! Hvad spiller i på en fredag aften? Jeg starter med lidt live poker,2026-04-14 02:20:00,both,True,True,medium
+432,70,Nogen der har prøvet den nye slot de har lagt op? Ragnarok noget?,2026-04-14 02:22:00,normal,False,False,none
+433,29,"din hjerne er ligeså lille som din pik, total spildplads",2026-04-14 02:24:00,hate_speech,True,False,high
+434,20,Nogen der sidder oppe sent og spiller? 😴 kan ikke sove,2026-04-14 02:26:00,normal,False,False,none
+435,35,"god morgen! tidlig session inden arbejde, forhåbentlig er lykken med mig",2026-04-14 02:28:00,normal,False,False,none
+436,19,Tip til begyndere: start ALTID med demo versionen inden du spiller for rigtige penge,2026-04-14 02:30:00,normal,False,False,none
+437,10,"prøv bare at skriv mere i chatten, jeg skal nok ødelægge dit liv",2026-04-14 02:32:00,hate_speech,True,False,high
+438,8,"din idiot, selvfølgelig taber du når du spiller sådan her!!",2026-04-14 02:34:00,hate_speech,True,False,medium
+439,22,nogen der kan låne mig 1000 kr? betaler tilbage i morgen når jeg har vundet det hjem,2026-04-14 02:36:00,gambling,False,True,high
+440,40,"Ny her, er der forskel på RTP i turbomode eller bare mig?",2026-04-14 02:38:00,normal,False,False,none
+441,77,Hvem vinder i aften? Spiller på Danmark naturligvis 🇩🇰,2026-04-14 02:40:00,both,True,True,medium
+442,73,"Sidder og hygger med et glas vin og lidt slots, perfekt fredag aften",2026-04-14 02:42:00,normal,False,False,none
+443,37,har prøvet 7 forskellige slots i dag og de giver alle sammen ingenting,2026-04-14 02:44:00,gambling,False,True,low
+444,57,nogen der har prøvet den nye spillemaskine? den med aztec tema,2026-04-14 02:46:00,normal,False,False,none
+445,16,Cashout tager lidt lang tid i dag eller er det bare mig?,2026-04-14 02:48:00,both,True,True,medium
+446,60,hvad er jeres go-to strategi på blackjack? jeg bruger altid basic strategy kortet,2026-04-14 02:50:00,normal,False,False,none
+447,39,"Husk nu at tage pauser folk, det er bare et spil 🙂",2026-04-14 02:52:00,normal,False,False,none
+448,52,"lige hævet mine gevinster, tog kun en dag, det er jeg tilfreds med",2026-04-14 02:54:00,normal,False,False,none
+449,35,"haha klassisk, ramte bonus på 20 kr spin og får 40 kr ud, føler mig som millionær 🤑",2026-04-14 02:56:00,edge_case,,,ambiguous
+450,65,"I LIVE!!! ramte free spins og det gav ingenting, men selve følelsen mand 😭😭",2026-04-14 02:58:00,edge_case,,,ambiguous
+451,70,Sweet Bonanza eller Starlight Princess? Hvad foretrækker folk?,2026-04-14 03:00:00,normal,False,False,none
+452,64,okay systemet virker denne gang. rød rød sort rød. har regnet det ud. sætter 3000 på,2026-04-14 03:02:00,gambling,False,True,high
+453,57,er der nogen der ved hvornår de har live casino åbent med dansk dealer?,2026-04-14 03:04:00,normal,False,False,none
+454,11,"1500kr gevinst på roulette, nu er jeg glad igen haha",2026-04-14 03:06:00,normal,False,False,none
+455,77,"okay men den der free spins runde var faktisk virkelig fed, gider ikke at den er slut",2026-04-14 03:08:00,edge_case,,,ambiguous
+456,6,"Okay jeg stopper nu, er oppe med 200 kr og vil ikke miste det igen som sidst 😅",2026-04-14 03:10:00,normal,False,False,none
+457,56,woop woop 2000kr gevinst!! nu sætter jeg det hele ind igen for at se om lykken holder 🎰,2026-04-14 03:12:00,edge_case,,,ambiguous
+458,42,"tog et kviklån for at kunne fortsætte, renten er høj men det er okay når jeg vinder det hjem igen om lidt",2026-04-14 03:14:00,gambling,False,True,medium
+459,78,"hold da op den bonus var nice, 200 free spins!!",2026-04-14 03:16:00,normal,False,False,none
+460,33,"Supporten var super hjælpsomme da jeg havde problemer med min indbetaling, thumbs up 👍",2026-04-14 03:18:00,both,True,True,medium
+461,4,har tabt så mange penge at jeg ikke kan se tallene mere. de betyder ingenting. sætter 5000 ind igen,2026-04-14 03:20:00,gambling,False,True,high
+462,12,Blackjack bordet er fuldt igen... typisk,2026-04-14 03:22:00,normal,False,False,none
+463,30,Nogen der ved hvornår turneringen starter? Glæder mig,2026-04-14 03:24:00,both,True,True,medium
+464,74,"Poker turneringen starter om 20 min, er der nogen der er med?",2026-04-14 03:26:00,both,True,True,medium
+465,76,Dead or Alive 2 er stadig KONGEN af alle slots efter min mening 🤠,2026-04-14 03:28:00,normal,False,False,none
+466,3,"okay det er tredje gang jeg topper op i dag, nu MÅ det snart vende",2026-04-14 03:30:00,gambling,False,True,low
+467,35,"Hvad pokker er der galt med systemet, spillet frøs midt i en fri spin",2026-04-14 03:32:00,hate_speech,True,False,low
+468,74,"Book of Dead er stadig min absolute favorit, ingen tvivl",2026-04-14 03:34:00,normal,False,False,none
+469,6,"hvad helvede, min bet blev annulleret midt i spillet??",2026-04-14 03:36:00,hate_speech,True,False,low
+470,23,"har ikke sovet endnu men det er okay for jeg er på vej op, altid mørkest inden daggry ik",2026-04-14 03:38:00,edge_case,,,ambiguous
+471,61,"jeg er nede med 4000 kr men jeg kan mærke at det vender snart, spinner bare 100 mere",2026-04-14 03:40:00,gambling,False,True,medium
+472,67,"kan ikke sove alligevel så hvorfor ikke spille lidt, det er jo ikke som om jeg har noget bedre at lave",2026-04-14 03:42:00,gambling,False,True,low
+473,57,er det normalt at miste 12.000 på en aften?? føler spillet er rigget men prøver lige med 500 mere for at teste det,2026-04-14 03:44:00,gambling,False,True,medium
+474,36,Starburst er bare klassikeren man altid vender tilbage til,2026-04-14 03:46:00,normal,False,False,none
+475,24,din mor er en billig ludder og det er du nok også,2026-04-14 03:48:00,hate_speech,True,False,high
+476,75,"Prøv Gates of Olympus, den giver virkelig meget i bonus buy",2026-04-14 03:50:00,normal,False,False,none
+477,56,fuck jeg hader dette spil men jeg bliver ved alligevel,2026-04-14 03:52:00,gambling,False,True,low
+478,63,"fandeme også til dig og din amatøragtige spillestil, hold dig til børnespil din tøs",2026-04-14 03:54:00,hate_speech,True,False,medium
+479,12,"poker turnering starter om 20 min, er der nogen der hopper med?",2026-04-14 03:56:00,normal,False,False,none
+480,61,har spillet her i 2 år og synes kundeservice er top notch,2026-04-14 03:58:00,normal,False,False,none
+481,45,"Spiller altid med ørepropper i og musik, hygger mig bare alene derhjemme",2026-04-14 04:00:00,normal,False,False,none
+482,53,"Har spillet her i 2 år, aldrig haft problemer med udbetaling",2026-04-14 04:02:00,normal,False,False,none
+483,43,Rammer aldrig den forbandede scatter 😤,2026-04-14 04:04:00,normal,False,False,none
+484,42,"det gi'r sgu ingen mening, har tabt 10 gange i streg nu",2026-04-14 04:06:00,hate_speech,True,False,low
+485,14,jeg er sgu begyndt at drømme om spillene om natten lol,2026-04-14 04:08:00,gambling,False,True,low
+486,21,"Bonusrunden på Dead or Alive 2 er den bedste i branchen, punkt.",2026-04-14 04:10:00,normal,False,False,none
+487,43,"din taber, har du ingen venner eller? ret åbenlyst at du sidder alene",2026-04-14 04:12:00,hate_speech,True,False,high
+488,53,er det bare mig eller er det her slot simpelthen RIGGED,2026-04-14 04:14:00,edge_case,,,ambiguous
+489,64,"det er jo ikke gambling hvis man ved hvad man laver, og jeg ved hvad jeg laver, næsten",2026-04-14 04:16:00,edge_case,,,ambiguous
+490,37,brugte min overtidsløn på det her i weekenden. nu er den væk. prøver at vinde den igen inden mandag,2026-04-14 04:18:00,gambling,False,True,medium
+491,52,Hvad er jeres favorit slot lige nu? Jeg er total hængt op på Sweet Bonanza,2026-04-14 04:20:00,normal,False,False,none
+492,71,kan ikke lade være. prøver at lukke siden men åbner den igen 2 min efter. hvad er der galt med mig,2026-04-14 04:22:00,gambling,False,True,high
+493,5,Er det bare mig eller er Pragmatic Play virkelig blevet bedre det seneste år,2026-04-14 04:24:00,normal,False,False,none
+494,59,live roulette er bare en anden oplevelse end den normale,2026-04-14 04:26:00,normal,False,False,none
+495,12,"Hej allesammen! Første gang jeg er herinde, håber I er søde 😄",2026-04-14 04:28:00,normal,False,False,none
+496,41,"Prøvede pragmatic play turneringen i weekenden, kom på en 12. plads, ikke dårligt",2026-04-14 04:30:00,normal,False,False,none
+497,33,COME ON COME ON COME ON... nej. FUCKING NEJ. okay en gang til,2026-04-14 04:32:00,gambling,False,True,high
+498,42,"Wtf lige mistet alt på et spin, det gør ondt mand",2026-04-14 04:34:00,normal,False,False,none
+499,15,"Prøv Gates of Olympus folk, den betaler SÅ godt lige nu ikke til at tro",2026-04-14 04:36:00,normal,False,False,none
+500,52,seriøst hvorfor taber man altid mest når man prøver at vinde det tilbage... irriterende,2026-04-14 04:38:00,gambling,False,True,low
