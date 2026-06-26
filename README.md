@@ -1,4 +1,4 @@
-# Chat Room Monitoring — Case løsning
+# Chat Room Monitoring - Case løsning
 
 Løsning til CEGO's Data Intelligence case om automatisk moderation af chatrum.
 
