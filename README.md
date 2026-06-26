@@ -29,5 +29,5 @@ Begge modeller evalueres på samme stratificerede testsæt for en fair sammenlig
 produktionen kræver: bliver problematisk adfærd fanget overhovedet?
 
 Valg af model afhænger af kategori: for ludomani vejer en overset sag tungt 
-(LLM's recall foretrækkes), for grimt sprog koster false positives kundetillid 
-(baseline's precision foretrækkes).
+(LLM's recall er bedre), for grimt sprog koster false positives kundetillid 
+(baseline's precision er bedre).
